@@ -1,6 +1,9 @@
 # The_Headmaster_CN_translate_pack
 P站游戏 The Headmaster(Altos and Herdone) 的翻译工具包.
 
+### 正确的目录配置
+在开始工作前，你需要将游戏解包，并将本文件夹内的所有内容，替换`游戏目录/game/tl`文件夹下的所有内容。
+
 ### 正确的翻译脚本使用流程
 ```
 0. pip install -r requirements.txt
