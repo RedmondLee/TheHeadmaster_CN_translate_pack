@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # JSON tmp files
-*.json
+reduction_map.json
 
 #
 *副本*/
