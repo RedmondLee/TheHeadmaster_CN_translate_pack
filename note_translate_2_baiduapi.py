@@ -46,12 +46,12 @@ async def translate_single_line(session, message):
         raise RuntimeError('百度翻译api通信错误')
 
 async def main():
-    for files in os.walk(store_dir):
+    for files in os.walk(store_dir2):
         files = sorted(files[2]);break
 
     for file in files:
-        store_path = os.path.join(store_dir, file)
-        with open(store_path, 'r', encoding='utf-8') as f:
+        store_path2 = os.path.join(store_dir2, file)
+        with open(store_path2, 'r', encoding='utf-8') as f:
             text = f.read()
         blocks = text.split('>>>>>') | Filter(lambda x:x) | Map(lambda x:x.split('###')) | deque
         blocks_backup = blocks | Map(lambda x:x[0]) | list 
@@ -68,7 +68,7 @@ async def main():
                     print('.',end='')
                 took_time = time.time() - start_time
                 await asyncio.sleep(max(1.5 - took_time, 0))
-        with open(store_path, 'w', encoding='utf-8') as f:
+        with open(store_path2, 'w', encoding='utf-8') as f:
             for block in zip(blocks_backup,result_backup):
                 f.write(f'>>>>>{block[0]}###\n{block[1]}\n')
         print(f'translate finished {file}...')

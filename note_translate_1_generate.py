@@ -56,3 +56,9 @@ for file in files:
     file_path = os.path.join(store_dir, file)
     if os.path.getsize(file_path) <= 0:
         os.remove(file_path)
+
+# 复制到副本
+import shutil
+if os.path.exists(store_dir2):
+    shutil.rmtree(store_dir2)
+shutil.copytree(store_dir, store_dir2)

@@ -10,7 +10,7 @@ for file, block_indexs in reduction_map.items():
     if block_indexs:
         block_indexs = deque(block_indexs)
         source_file_path = os.path.join(working_dir, file)
-        text_file_path = os.path.join(store_dir, os.path.splitext(file)[0] + '.txt')
+        text_file_path = os.path.join(store_dir2, os.path.splitext(file)[0] + '.txt')
         with open(text_file_path, 'r', encoding='utf-8') as f:
             text = f.read()
         block_contents = text.split('>>>>>') | Filter(lambda x:x) | Map(lambda x:x.split('###')) | deque
