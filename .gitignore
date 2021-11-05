@@ -130,3 +130,6 @@ dmypy.json
 
 # JSON tmp files
 *.json
+
+#
+*副本*/
