@@ -13,7 +13,7 @@ from pipeit import *
 if os.path.exists(image_dir3):
     shutil.rmtree(image_dir3)
 
-WATCH_LIST = ['.png','.jpg','jpeg','bmp','webp']
+WATCH_LIST = ['.png','.jpg','.jpeg','.bmp','.webp']
 
 def getmd5(file):
     m = hashlib.md5()
