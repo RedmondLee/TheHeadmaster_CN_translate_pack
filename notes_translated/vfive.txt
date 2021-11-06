@@ -17,7 +17,7 @@ I hacked my way into the old headmaster's secret journal only to discover that h
 >>>>>
 {color=#606060}5) Ruth and the old headmaster were having an affair. Use the information to blackmail her. COMPLETE{color=#606060}
 ###
-露丝和老校长有外遇。利用这些信息勒索她。完成{color=#606060}
+{color=#606060}5) 露丝和老校长有外遇。利用这些信息勒索她。完成{color=#606060}
 >>>>>
 6) Hope for a miracle.
 ###
@@ -37,7 +37,7 @@ I ventured out to where the old headmaster died and found his wallet and the com
 >>>>>
 {color=#606060}6) Confront Ruth again in the teachers lounge. COMPLETE{color=#606060}
 ###
-在教师休息室里再次与露丝对质。完成{color=#606060}
+{color=#606060}6) 在教师休息室里再次与露丝对质。完成{color=#606060}
 >>>>>
 You have reached the end of Ruth's story line for this update.
 ###
