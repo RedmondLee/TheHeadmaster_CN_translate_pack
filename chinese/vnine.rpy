@@ -17398,7 +17398,7 @@ translate chinese chang_bdsm_chat_d219e3b8:
 translate chinese chang_bdsm_chat_947362cf:
 
     # sc "Well, almost no one else survived so I actually don't know. My guess is it's probably around 95%%"
-    sc "嗯,几乎没有其他人生还,所以我也不知道.我猜大概有百分之95左右"
+    sc "嗯,几乎没有其他人生还,所以我也不知道.我猜大概有95%左右"
 
 # game/vnine.rpy:5525
 translate chinese chang_bdsm_chat_c20eb67c:
@@ -20490,7 +20490,7 @@ translate chinese strings:
 
     # game/vnine.rpy:6019
     old "Stict"
-    new "卡住"
+    new "严厉"
 
     # game/vnine.rpy:6019
     old "Flirt"
@@ -20518,4 +20518,4 @@ translate chinese strings:
 
     # game/vnine.rpy:6221
     old "Let her off as it's her first day"
-    new "放了她吧,因为这是她的第一天"
+    new "放了她吧,因为这是她第一天上课"
