@@ -9,7 +9,7 @@ for files in os.walk(working_dir):
     files = files | Filter(lambda x:os.path.splitext(x)[1] == '.rpy') | list
     break
 
-pattern = '\$[ ][a-zA-Z0-9_]+?\.note[a-zA-Z0-9_]+?=".+?"[\n]'
+pattern = '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*=[ ]*".+?"[\n]'
 
 # 一个问题是文本中有没有转义换行符，识别时以行为单位是否合适
 def post_split_text(search_result):

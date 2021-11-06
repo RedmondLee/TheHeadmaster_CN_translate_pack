@@ -1,24 +1,64 @@
 >>>>>
 {color=#606060}3) Spy on Liz's room to see what she tells her friends.COMPLETE{/color}
 ###
-{color=#606060}3）监视莉兹的房间，看看她都和她的朋友说些什么。完成{/color}
+{color=#606060}3）监视莉兹的房间，看看她都和她的朋友说些什么。完成{/color} 
 >>>>>
 You've reached the end of Emily's content for now.
 ###
-你现在已经到了当前版本艾米丽内容的结尾。
+你现在已经到了当前版本艾米丽内容的结尾。 
 >>>>>
 {color=#606060}1) Speak with Sally in the men's changing rooms on a weekday afternoon. COMPLETE{/color}
 ###
-{color=#606060}1）工作日下午，在男更衣室与莎莉交谈。完成{/color}
+{color=#606060}1）工作日下午，在男更衣室与莎莉交谈。完成{/color} 
 >>>>>
 3) Summon Emily and Sally using the phone in your office.
 ###
-3） 用你办公室的电话叫艾米丽和莎莉来一趟。
+3） 用你办公室的电话叫艾米丽和莎莉来一趟。 
 >>>>>
 {color=#606060}2) Summon Emily and Sally using the phone in your office. COMPLETE{/color}
 ###
-{color=#606060}2）在办公室用电话叫艾米丽和莎莉来一趟。完成{/color}
+{color=#606060}2）在办公室用电话叫艾米丽和莎莉来一趟。完成{/color} 
 >>>>>
 3) Spy on Liz's room to see what Emily tells her friends.
 ###
-3） 监视莉兹的房间，看看艾米丽对她的朋友说了些什么。
+3） 监视莉兹的房间，看看艾米丽对她的朋友说了些什么。 
+>>>>>
+1) Sy on Priti's room and find out what she was planning with Harriet.
+###
+1） 偷看普利蒂的房间，看看她和哈莉特有什么计划。
+>>>>>
+1) Summon Priti to your office.
+###
+1） 把普里蒂叫到你的办公室来。
+>>>>>
+Priti had an oppressive upbringing and her mother plans to force her into an arranged marriage after school. Priti wants to go to medical school and become a doctor but she doesn’t think her family will allow it. I must help Priti to stand up for herself by whatever means necessary.
+###
+普里蒂的成长环境很压抑，她母亲计划让她在学校毕业后就以包办婚姻嫁出去。普里蒂想上医学院，成为一名医生，但她认为她的家人不会允许这一切。我必须用一切必要的手段帮助普里蒂为自己辩护。
+>>>>>
+1) Catch Priti Misbehaving in class. (This is as far as you can go with Priti's questline for now)
+###
+1） 抓住普里蒂在课堂上的不当行为。（普里蒂的任务线目前能做到这里）
+>>>>>
+2) Speak with Priti on Wednesday evening after the school play rehersal. (COMING SOON).
+###
+2） 周三晚上在学校话剧排练结束后与普利蒂交谈。（即将上线）。
+>>>>>
+1) Catch Priti Misbehaving in class. (This is as far as you can go with Priti's questline for now)
+###
+1） 抓住普里蒂在课堂上的不当行为。（这是普里蒂的任务线目前所能完成的范围）
+>>>>>
+2) Speak with Priti on Wednesday evening after the scool play rehersal. (COMING SOON).
+###
+2） 周三晚上，在史酷尔的比赛结束后，与普里蒂交谈。（即将上线）。
+>>>>>
+7) Purchase a 3D printer for Miss Chang. COMING SOON.
+###
+7） 为张小姐买一台3D打印机。即将上线。
+>>>>>
+{color=#606060}5) Ask Miss Chang what she knows about British Defence System Manufacturers. COMPLETE{/color}
+###
+{color=#606060}5) 问张小姐她对英国国防系统制造商了解多少。完成{/color}
+>>>>>
+6) Miss Chang warned you about a spy on campus. Could there be a connection between the spy and the old headmasters death? You will need to investigate. COMING SOON.
+###
+6） 张小姐警告过你校园里有间谍。间谍和老校长的死有联系吗？你需要调查。即将上线。
