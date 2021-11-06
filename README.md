@@ -46,6 +46,6 @@ P站游戏 The Headmaster(Altos and Herdone) 的翻译工具包.
 
 ### 有关图片上传至github
 
-由于政策原因，汉化文件中暴露图片不宜直接在github中储存和预览，故上传时会执行`reverse_img.exe`对图片进行简单处理，将所有图片的二进制字节码反转（以字节为单位），是的其不被github识别为一张图片。需要使用图片时双击执行`reverse_img.exe`将图片转回来即可。
+由于政策原因，汉化文件中暴露图片不宜直接在github中储存和预览，故上传时会执行`reverse_img.exe`对图片进行简单处理，将所有图片的二进制字节码反转（以字节为单位），使其不被github识别为一张图片。需要使用图片时双击执行`reverse_img.exe`将图片转回来即可。
 
-如果执行`update.cmd`进行快速提交，会自动执行`.\reverse_img.exe -enc`进行加密。加密时会自动读文件头，如果已经翻转则不会翻转第二次。
+如果执行`update.cmd`进行快速提交，会自动执行`.\reverse_img.exe --enc`进行加密。加密时会自动读文件头，如果已经翻转则不会翻转第二次。
