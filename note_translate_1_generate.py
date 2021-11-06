@@ -9,7 +9,17 @@ for files in os.walk(working_dir):
     files = files | Filter(lambda x:os.path.splitext(x)[1] == '.rpy') | list
     break
 
-pattern = '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*=[ ]*".+?"[\n]'
+# pattern_notes = '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*?=[ ]*?".+?"[\n]'
+# pattern_qname = 'q_name[ ]*?=[ ]*?".+?",'
+# pattern_description = 'description[ ]*?=[ ]*?".+?",'
+# pattern_note1 = 'note1[ ]*?=[ ]*?".+?",'
+patterns = [
+    '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*?=[ ]*?".+?"[\n]', #notes
+    'q_name[ ]*?=[ ]*?".+?",', # qname
+    'description[ ]*?=[ ]*?".+?",', # description
+    'note1[ ]*?=[ ]*?".+?",' # note1
+]
+patterns = '|'.join(patterns | Map(lambda x:f"({x})"))
 
 # 一个问题是文本中有没有转义换行符，识别时以行为单位是否合适
 def post_split_text(search_result):
@@ -37,14 +47,14 @@ for file in files:
         text = f.read()
     regx_srch_fix = 0
     regx_srch_count = 0
-    search_result = re.search(pattern, text[regx_srch_fix:])
+    search_result = re.search(patterns, text[regx_srch_fix:])
     while search_result:
         fixed_text, fixed_start, fixed_end, _, _, full_end = post_split_text(search_result)
         with open(store_path,'a',encoding='utf-8') as f:
             f.write(f'>>>>>\n{fixed_text}\n###\n\n')
         reduction_map[file].append((regx_srch_fix + fixed_start, regx_srch_fix + fixed_end))
         regx_srch_fix += full_end
-        search_result = re.search(pattern, text[regx_srch_fix:])
+        search_result = re.search(patterns, text[regx_srch_fix:])
 
 with open('reduction_map.json','w',encoding='utf-8') as f:
     json.dump(reduction_map, f)
