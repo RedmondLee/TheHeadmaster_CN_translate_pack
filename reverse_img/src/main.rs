@@ -32,6 +32,11 @@ fn main() {
     let paths = fs::read_dir(".\\images").unwrap();
     for path in paths {
         let path_str = path.unwrap().path().into_os_string().into_string().unwrap();
+        let md = fs::metadata(path_str).unwrap();
+        println!({:?} , md);
+        if md.is_dir() {
+            continue;
+        }
         let ext = splitext(&*path_str).unwrap().to_lowercase();
         if watch_list.contains(&&*ext) {
             // 文件扩展名存在于监视列表中
