@@ -13,7 +13,9 @@ patterns = [
     '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*?=[ ]*?".+?"[\n]', #notes
     # 'q_name[ ]*?=[ ]*?".+?",', # qname
     'description[ ]*?=[ ]*?".+?",', # description
-    'note[1-9][ ]*?=[ ]*?".+?",' # note1-9
+    'note[1-9][ ]*?=[ ]*?".+?",', # note1-9
+    'notes[1-9]*?[ ]*?=[ ]*?".+?",', # note1-9
+    'occupation[ ]*?=[ ]*?".+?",', # description
 ]
 # 修正：qname似乎联动牵扯比较多，非手动的话不宜修改
 patterns = '|'.join(patterns | Map(lambda x:f"({x})"))

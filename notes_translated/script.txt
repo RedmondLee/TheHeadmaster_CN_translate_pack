@@ -1,4 +1,268 @@
 >>>>>
+Headmaster.
+###
+校长
+>>>>>
+Formerly an expert in educational psychology and now the headmaster at an all girls school. You have devoted your life to the study of how to teach young people. You have discovered a new method of disciplining students which is hundreds of times more effective than traditional techniques. Unfortunately these methods can seem a little extreme and you have your work cut out to convince the educational community.
+###
+以前是教育心理学专家，现在是一所女子学校的校长。你把一生都致力于研究如何教育年轻人。你发现了一种训练学生的新方法，这种方法比传统方法有效数百倍。不幸的是，这些方法可能看起来有点极端，你必须努力说服教育界。
+>>>>>
+Executive.
+###
+行政管理
+>>>>>
+Mr Mykock represents the mysterious owners of the school. They are keen to see good old-fashioned discipline reintroduced.
+###
+麦考克先生是学校神秘所有者的代言人。他渴望看到学校重新引入良好的旧式纪律。
+>>>>>
+Sports Teacher.
+###
+体育老师。
+>>>>>
+The school's sports teacher and a member of the school board. We've not met each other yet.
+###
+学校的体育老师和学校董事会成员。我们还没见过面。
+>>>>>
+Maths Teacher.
+###
+数学老师。
+>>>>>
+Charles is the head of the maths department and is a member of the school board. We've not yet been introduced.
+###
+查尔斯是数学系主任，也是学校董事会成员。我们还没有被介绍。
+>>>>>
+English Teacher.
+###
+英语老师。
+>>>>>
+Claire is the head of the English department and is a member of the school board. We've not yet been introduced.
+###
+克莱尔是英语系主任，也是学校董事会成员。我们还没有被介绍。
+>>>>>
+Science teacher.
+###
+科学老师。
+>>>>>
+Sue is the head of the science department and is a member of the school board. We've not yet been introduced.
+###
+苏是科学系主任，也是学校董事会成员。我们还没有被介绍。
+>>>>>
+Nurse.
+###
+护士
+>>>>>
+The school nurse. We've not yet been introduced.
+###
+学校的护士。我们还没有被介绍。
+>>>>>
+Groundskeeper.
+###
+地滚球。
+>>>>>
+Jimmy is the school's groundskeeper. We've not yet been introduced.
+###
+吉米是学校的场地管理员。我们还没有被介绍。
+>>>>>
+Headmistress.
+###
+校长
+>>>>>
+Rebecca is the headmistress of the nearby boys' school. We've not yet been introduced.
+###
+丽贝卡是附近男学校的校长。我们还没有被介绍。
+>>>>>
+Secretary.
+###
+秘书
+>>>>>
+Samantha is the school secretary and also my PA.
+###
+萨曼莎是学校秘书，也是我的爸爸。
+>>>>>
+Student.
+###
+学生
+>>>>>
+Alice is one of the students. We've not spoken yet.
+###
+爱丽丝是学生之一。我们还没说话。
+>>>>>
+Student.
+###
+学生
+>>>>>
+Lucy is one of the students. We've not spoken yet.
+###
+露西是学生之一。我们还没说话。
+>>>>>
+Student.
+###
+学生
+>>>>>
+Debbie is one of the students. We've not spoken yet.
+###
+黛比是学生之一。我们还没说话。
+>>>>>
+Student.
+###
+学生
+>>>>>
+Priti is one of the students. We've not spoken yet.
+###
+普里蒂是学生之一。我们还没说话。
+>>>>>
+Student.
+###
+学生
+>>>>>
+Charlotte is one of the students. We've not spoken yet.
+###
+夏洛特是学生之一。我们还没说话。
+>>>>>
+Student.
+###
+学生
+>>>>>
+Rachel is one of the students. We've not spoken yet.
+###
+瑞秋是学生之一。我们还没说话。
+>>>>>
+Independent Observer
+###
+独立观察员
+>>>>>
+Ruth was sent to the school by the government to ensure the girls are not being abused.
+###
+政府把露丝送到学校是为了确保这些女孩不被虐待。
+>>>>>
+Teaching Assistant
+###
+助教
+>>>>>
+Izzy works at the reception desk in the sports centre and helps Miss Newman run the sports department.
+###
+伊兹在体育中心的接待处工作，帮助纽曼小姐管理体育部。
+>>>>>
+Student
+###
+学生
+>>>>>
+Louise is one of the students. We've not met yet.
+###
+路易丝是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Mary is one of the students. We've not met yet.
+###
+玛丽是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Maxine is one of the students. We've not met yet.
+###
+马克辛是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Liz is one of the students. We've not met yet.
+###
+利兹是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Emily is one of the students. We've not met yet.
+###
+艾米丽是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+April is one of the students. We've not met yet.
+###
+四月是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Harriet is one of the students. We've not met yet.
+###
+哈丽特是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Amy is one of the students. We've not met yet.
+###
+艾米是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Nina is one of the students. We've not met yet.
+###
+尼娜是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Faye is one of the students. We've not met yet.
+###
+费伊是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Cassandra is one of the students. We've not met yet.
+###
+卡桑德拉是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+Donna is one of the students. We've not met yet.
+###
+唐娜是学生之一。我们还没见过面。
+>>>>>
+Student
+###
+学生
+>>>>>
+When tasked by the government to find the most efficient way to discipline young people, Sarah was one of my test subjects. By practising on Sarah I was able to perfect my new punishment method. I then demonstrated my new method on Sarah in front of a group of influential teachers and politicians.
+###
+当政府责成我寻找最有效的管教年轻人的方法时，莎拉是我的测试对象之一。通过在莎拉身上的练习和实验，我能够完善我的新惩罚理论。然后，我在一群有影响力的老师和政治家面前，展示了我的新方法。
+>>>>>
+Secretary of Education
+###
+教育部长
+>>>>>
+Jane Curtis is the Secretary of Education and is a high-ranking member of the government. Concerned about worsening behaviour in schools she provided me with funding to research the most efficient way to discipline young people. However, she never actually read any of my research papers and was horrified when I demonstrated my methods at a national teaching conference. She swore that I would never work in education again. Hopefully she doesn't find out about my new job.
+###
+简·柯蒂斯是教育部长，也是政府高级官员。她担心学校里的不良行为，为我提供资金，研究管教年轻人的最有效方法。然而，她从未真正读过我的任何研究论文，当我在全国教学会议上展示我的方法时，她感到震惊。她发誓再也不会让我从事教育工作了。希望她不会发现我的新工作。
+>>>>>
+Security Guard
+###
+保安
+>>>>>
+Maria is in charge of overnight security on campus. She ensures the girls stick to curfew.
+###
+玛丽亚负责校园的夜间安全。她确保女孩们遵守宵禁。
+>>>>>
 It's your first day as the headmaster at an all girls college for troubled teens. Your PA Samantha has kindly prepared a schedule for you to help you get settled in.
 ###
 这是一所针对问题青少年女子的收容学院，今天是你在这里担任校长的第一天。你的助理萨曼莎已经为你准备了一份时间表，帮助你安顿下来。

@@ -1,4 +1,268 @@
 >>>>>
+Headmaster.
+###
+
+>>>>>
+Formerly an expert in educational psychology and now the headmaster at an all girls school. You have devoted your life to the study of how to teach young people. You have discovered a new method of disciplining students which is hundreds of times more effective than traditional techniques. Unfortunately these methods can seem a little extreme and you have your work cut out to convince the educational community.
+###
+
+>>>>>
+Executive.
+###
+
+>>>>>
+Mr Mykock represents the mysterious owners of the school. They are keen to see good old-fashioned discipline reintroduced.
+###
+
+>>>>>
+Sports Teacher.
+###
+
+>>>>>
+The school's sports teacher and a member of the school board. We've not met each other yet.
+###
+
+>>>>>
+Maths Teacher.
+###
+
+>>>>>
+Charles is the head of the maths department and is a member of the school board. We've not yet been introduced.
+###
+
+>>>>>
+English Teacher.
+###
+
+>>>>>
+Claire is the head of the English department and is a member of the school board. We've not yet been introduced.
+###
+
+>>>>>
+Science teacher.
+###
+
+>>>>>
+Sue is the head of the science department and is a member of the school board. We've not yet been introduced.
+###
+
+>>>>>
+Nurse.
+###
+
+>>>>>
+The school nurse. We've not yet been introduced.
+###
+
+>>>>>
+Groundskeeper.
+###
+
+>>>>>
+Jimmy is the school's groundskeeper. We've not yet been introduced.
+###
+
+>>>>>
+Headmistress.
+###
+
+>>>>>
+Rebecca is the headmistress of the nearby boys' school. We've not yet been introduced.
+###
+
+>>>>>
+Secretary.
+###
+
+>>>>>
+Samantha is the school secretary and also my PA.
+###
+
+>>>>>
+Student.
+###
+
+>>>>>
+Alice is one of the students. We've not spoken yet.
+###
+
+>>>>>
+Student.
+###
+
+>>>>>
+Lucy is one of the students. We've not spoken yet.
+###
+
+>>>>>
+Student.
+###
+
+>>>>>
+Debbie is one of the students. We've not spoken yet.
+###
+
+>>>>>
+Student.
+###
+
+>>>>>
+Priti is one of the students. We've not spoken yet.
+###
+
+>>>>>
+Student.
+###
+
+>>>>>
+Charlotte is one of the students. We've not spoken yet.
+###
+
+>>>>>
+Student.
+###
+
+>>>>>
+Rachel is one of the students. We've not spoken yet.
+###
+
+>>>>>
+Independent Observer
+###
+
+>>>>>
+Ruth was sent to the school by the government to ensure the girls are not being abused.
+###
+
+>>>>>
+Teaching Assistant
+###
+
+>>>>>
+Izzy works at the reception desk in the sports centre and helps Miss Newman run the sports department.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Louise is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Mary is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Maxine is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Liz is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Emily is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+April is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Harriet is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Amy is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Nina is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Faye is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Cassandra is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+Donna is one of the students. We've not met yet.
+###
+
+>>>>>
+Student
+###
+
+>>>>>
+When tasked by the government to find the most efficient way to discipline young people, Sarah was one of my test subjects. By practising on Sarah I was able to perfect my new punishment method. I then demonstrated my new method on Sarah in front of a group of influential teachers and politicians.
+###
+
+>>>>>
+Secretary of Education
+###
+
+>>>>>
+Jane Curtis is the Secretary of Education and is a high-ranking member of the government. Concerned about worsening behaviour in schools she provided me with funding to research the most efficient way to discipline young people. However, she never actually read any of my research papers and was horrified when I demonstrated my methods at a national teaching conference. She swore that I would never work in education again. Hopefully she doesn't find out about my new job.
+###
+
+>>>>>
+Security Guard
+###
+
+>>>>>
+Maria is in charge of overnight security on campus. She ensures the girls stick to curfew.
+###
+
+>>>>>
 It's your first day as the headmaster at an all girls college for troubled teens. Your PA Samantha has kindly prepared a schedule for you to help you get settled in.
 ###
 
