@@ -77,7 +77,7 @@ Secretary.
 >>>>>
 Samantha is the school secretary and also my PA.
 ###
-萨曼莎是学校秘书，也是我的爸爸。
+萨曼莎是学校秘书，也是我的秘书。
 >>>>>
 Student.
 ###
