@@ -11,6 +11,7 @@ for files in os.walk(working_dir):
 
 patterns = [
     '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*?=[ ]*?".+?"[\n]', #notes
+    '\$[ ][a-zA-Z0-9_]+?\.weakness[ ]*?=[ ]*?".+?"[\n]', #weakness
     # 'q_name[ ]*?=[ ]*?".+?",', # qname
     'description[ ]*?=[ ]*?".+?",', # description
     'note[1-9][ ]*?=[ ]*?".+?",', # note1-9
