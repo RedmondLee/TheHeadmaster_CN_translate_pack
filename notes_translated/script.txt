@@ -1,192 +1,192 @@
 >>>>>
 It's your first day as the headmaster at an all girls college for troubled teens. Your PA Samantha has kindly prepared a schedule for you to help you get settled in.
 ###
-ÕâÊÇÒ»ËùÕë¶ÔÎÊÌâÇàÉÙÄêÅ®×ÓµÄÊÕÈİÑ§Ôº£¬½ñÌìÊÇÄãÔÚÕâÀïµ£ÈÎĞ£³¤µÄµÚÒ»Ìì¡£ÄãµÄÖúÀíÈøÂüÉ¯ÒÑ¾­ÎªÄã×¼±¸ÁËÒ»·İÊ±¼ä±í£¬°ïÖúÄã°²¶ÙÏÂÀ´¡£
+è¿™æ˜¯ä¸€æ‰€é’ˆå¯¹é—®é¢˜é’å°‘å¹´å¥³å­çš„æ”¶å®¹å­¦é™¢ï¼Œä»Šå¤©æ˜¯ä½ åœ¨è¿™é‡Œæ‹…ä»»æ ¡é•¿çš„ç¬¬ä¸€å¤©ã€‚ä½ çš„åŠ©ç†è¨æ›¼èå·²ç»ä¸ºä½ å‡†å¤‡äº†ä¸€ä»½æ—¶é—´è¡¨ï¼Œå¸®åŠ©ä½ å®‰é¡¿ä¸‹æ¥ã€‚
 >>>>>
 1) Familiarise yourself with your office then head to the classrooms.
 ###
-1£© ÊìÏ¤ÄãµÄ°ì¹«ÊÒ£¬È»ºóÈ¥½ÌÊÒ¡£
+1ï¼‰ ç†Ÿæ‚‰ä½ çš„åŠå…¬å®¤ï¼Œç„¶åå»æ•™å®¤ã€‚
 >>>>>
 The old headmaster was worried he was being followed in the woods. Could he have been murdered? You decide to investigate in case you yourself are in danger.
 ###
-ÀÏĞ£³¤µ£ĞÄÓĞÈËÔÚÊ÷ÁÖÀï¸ú×ÙËû¡£Ëû»á±»Ä±É±Âğ£¿Äã¾ö¶¨µ÷²éÕâ¼şÊÂ£¬ÒÔ·À×Ô¼º´¦ÓÚÎ£ÏÕÖ®ÖĞ¡£
+è€æ ¡é•¿æ‹…å¿ƒæœ‰äººåœ¨æ ‘æ—é‡Œè·Ÿè¸ªä»–ã€‚ä»–ä¼šè¢«è°‹æ€å—ï¼Ÿä½ å†³å®šè°ƒæŸ¥è¿™ä»¶äº‹ï¼Œä»¥é˜²è‡ªå·±å¤„äºå±é™©ä¹‹ä¸­ã€‚
 >>>>>
 1) Ask the staff about the old headmaster and see if anyone knows anything about his death.
 ###
-1£© Ñ¯ÎÊÆäËûÔ±¹¤¹ØÓÚÀÏĞ£³¤µÄÇé¿ö£¬¿´¿´ÊÇ·ñÓĞÈËÁË½âËûËÀÍöµÄÏ¸½Ú¡£
+1ï¼‰ è¯¢é—®å…¶ä»–å‘˜å·¥å…³äºè€æ ¡é•¿çš„æƒ…å†µï¼Œçœ‹çœ‹æ˜¯å¦æœ‰äººäº†è§£ä»–æ­»äº¡çš„ç»†èŠ‚ã€‚
 >>>>>
 Miss Chang has complained about the lack of science facilities at the school.
 ###
-ÕÅĞ¡½ã±§Ô¹Ñ§Ğ£È±·¦¿ÆÑ§ÉèÊ©¡£
+å¼ å°å§æŠ±æ€¨å­¦æ ¡ç¼ºä¹ç§‘å­¦è®¾æ–½ã€‚
 >>>>>
 1) Upgrade your science classroom by using the construction menu on your computer.
 ###
-1£© Ê¹ÓÃ¼ÆËã»úÉÏµÄ¡°¹¹Ôì¡±²Ëµ¥Éı¼¶¿ÆÑ§½ÌÊÒ¡£
+1ï¼‰ ä½¿ç”¨è®¡ç®—æœºä¸Šçš„â€œæ„é€ â€èœå•å‡çº§ç§‘å­¦æ•™å®¤ã€‚
 >>>>>
 Miss Potts can't control her class. Fortunately you are an expert in disciplining young women and have offered to pass on some of your skills.
 ###
-²¨´ÄĞ¡½ã²»ÄÜ¿ØÖÆËıµÄ°à¼¶¡£ĞÒÔËµÄÊÇ£¬ÄãÊÇ¹Ü½ÌÄêÇáÅ®ĞÔµÄ×¨¼Ò£¬²¢ÄãÔ¸ÒâÏòËı´«ÊÚÒ»Ğ©¼¼ÄÜ¡£
+æ³¢èŒ¨å°å§ä¸èƒ½æ§åˆ¶å¥¹çš„ç­çº§ã€‚å¹¸è¿çš„æ˜¯ï¼Œä½ æ˜¯ç®¡æ•™å¹´è½»å¥³æ€§çš„ä¸“å®¶ï¼Œå¹¶ä½ æ„¿æ„å‘å¥¹ä¼ æˆä¸€äº›æŠ€èƒ½ã€‚
 >>>>>
 1) Visit Miss Potts' apartment in the evenings to provide her with basic training.
 ###
-1£© ÍíÉÏ²Î¹Û²¨´ÄĞ¡½ãµÄ¹«Ô¢£¬ÎªËıÌá¹©»ù±¾ÅàÑµ¡£
+1ï¼‰ æ™šä¸Šå‚è§‚æ³¢èŒ¨å°å§çš„å…¬å¯“ï¼Œä¸ºå¥¹æä¾›åŸºæœ¬åŸ¹è®­ã€‚
 >>>>>
 5) Summon Priti to your office then decide how to obtain naked photos of her.
 ###
-5£© °ÑÆÕÀïµÙ½Ğµ½ÄãµÄ°ì¹«ÊÒ£¬È»ºóÔÙ¿´Çé¿ö¾ö¶¨ÈçºÎ»ñµÃËıµÄÂãÕÕ¡£
+5ï¼‰ æŠŠæ™®é‡Œè’‚å«åˆ°ä½ çš„åŠå…¬å®¤ï¼Œç„¶åå†çœ‹æƒ…å†µå†³å®šå¦‚ä½•è·å¾—å¥¹çš„è£¸ç…§ã€‚
 >>>>>
 {color=#606060}1) Upgrade your science classroom by using the construction menu on your computer. COMPLETE{/color}
 ###
-{color=#606060}1£©Ê¹ÓÃ¼ÆËã»úÉÏµÄ¡°ÉèÊ©¡±²Ëµ¥Éı¼¶¿ÆÑ§½ÌÊÒ¡£Íê³É{/color}
+{color=#606060}1ï¼‰ä½¿ç”¨è®¡ç®—æœºä¸Šçš„â€œè®¾æ–½â€èœå•å‡çº§ç§‘å­¦æ•™å®¤ã€‚å®Œæˆ{/color}
 >>>>>
 2) Tell Miss Chang you have ordered new equipment for her.
 ###
-2£© ¸æËßÕÅĞ¡½ãÄãÒÑ¾­ÎªËı¶©¹ºÁËĞÂÉè±¸¡£
+2ï¼‰ å‘Šè¯‰å¼ å°å§ä½ å·²ç»ä¸ºå¥¹è®¢è´­äº†æ–°è®¾å¤‡ã€‚
 >>>>>
 {color=#606060}4) Open the locked journal entry in the recycle bin of the old headmaster's computer. COMPLETE{color=#606060}
 ###
-{color=#606060}4£©´ò¿ª¾ÉĞ£³¤µçÄÔ»ØÊÕÕ¾ÖĞËø¶¨µÄÈÕ¼ÇÕËÌõÄ¿¡£Íê³É{color=#606060}
+{color=#606060}4ï¼‰æ‰“å¼€æ—§æ ¡é•¿ç”µè„‘å›æ”¶ç«™ä¸­é”å®šçš„æ—¥è®°è´¦æ¡ç›®ã€‚å®Œæˆ{color=#606060}
 >>>>>
 5) Ruth and the old headmaster were having an affair. Use the information to blackmail her.
 ###
-5£© Â¶Ë¿ºÍÀÏĞ£³¤ÓĞÍâÓö¡£ÀûÓÃÕâĞ©ĞÅÏ¢ÀÕË÷Ëı¡£
+5ï¼‰ éœ²ä¸å’Œè€æ ¡é•¿æœ‰å¤–é‡ã€‚åˆ©ç”¨è¿™äº›ä¿¡æ¯å‹’ç´¢å¥¹ã€‚
 >>>>>
 Sue is the head of the science department and is a member of the school board. She used to be one of the country's top scientists before one of her experiments went horribly wrong. She was sent to your remote school to keep her out of harms way. She has asked for the school's science facilities to be improved so she can carry out some experiments in the evening. The old headmaster was deeply afraid of her and you're not sure she can be trusted.
 ###
-ËÕÊÇ¿ÆÑ§ÏµÖ÷ÈÎ£¬Ò²ÊÇÑ§Ğ£¶­ÊÂ»á³ÉÔ±¡£ÔÚËıµÄÒ»ÏîÊµÑé³öÏÖÑÏÖØ´íÎóÖ®Ç°£¬ËıÔøÊÇÃÀ¹ú¶¥¼â¿ÆÑ§¼ÒÖ®Ò»¡£Ëı±»ËÍµ½ÄãÆ«Ô¶µÄÑ§Ğ£ÊÇÎªÁË²»ÈÃËıÊÜµ½ÉËº¦¡£ËıÒªÇó¸ÄÉÆÑ§Ğ£µÄ¿ÆÑ§ÉèÊ©£¬ÒÔ±ãËı¿ÉÒÔÔÚÍíÉÏ½øĞĞÒ»Ğ©ÊµÑé¡£ÀÏĞ£³¤·Ç³£º¦ÅÂËı£¬Äã²»È·¶¨ËıÊÇ·ñ¿ÉĞÅ¡£
+è‹æ˜¯ç§‘å­¦ç³»ä¸»ä»»ï¼Œä¹Ÿæ˜¯å­¦æ ¡è‘£äº‹ä¼šæˆå‘˜ã€‚åœ¨å¥¹çš„ä¸€é¡¹å®éªŒå‡ºç°ä¸¥é‡é”™è¯¯ä¹‹å‰ï¼Œå¥¹æ›¾æ˜¯ç¾å›½é¡¶å°–ç§‘å­¦å®¶ä¹‹ä¸€ã€‚å¥¹è¢«é€åˆ°ä½ åè¿œçš„å­¦æ ¡æ˜¯ä¸ºäº†ä¸è®©å¥¹å—åˆ°ä¼¤å®³ã€‚å¥¹è¦æ±‚æ”¹å–„å­¦æ ¡çš„ç§‘å­¦è®¾æ–½ï¼Œä»¥ä¾¿å¥¹å¯ä»¥åœ¨æ™šä¸Šè¿›è¡Œä¸€äº›å®éªŒã€‚è€æ ¡é•¿éå¸¸å®³æ€•å¥¹ï¼Œä½ ä¸ç¡®å®šå¥¹æ˜¯å¦å¯ä¿¡ã€‚
 >>>>>
 Ruth was sent to the school by the government to ensure the girls are not being abused. She also has a place on the school board and has vowed to vote against all your proposals. As she works for the government then the Secretary of Education must be her boss. Hopefully word doesn't reach the Secretary that you are working in education again.
 ###
-Õş¸®°ÑÂ¶Ë¿ËÍµ½Ñ§Ğ£ÊÇÎªÁËÈ·±£ÕâĞ©Å®º¢²»±»Å°´ı¡£ËıÔÚÑ§Ğ£¶­ÊÂ»áÖĞÒ²ÓĞÒ»Ï¯Ö®µØ£¬²¢·¢ÊÄÒªÍ¶Æ±·´¶ÔÄãµÄËùÓĞÌáÒé¡£¼ÈÈ»ËıÎªÕş¸®¹¤×÷£¬ÄÇÃ´½ÌÓı²¿³¤Ò»¶¨ÊÇËıµÄÀÏ°å¡£Ï£ÍûÃØÊéÃ»ÓĞÌıµ½ÄãÓÖÔÚ½ÌÓı²¿ÃÅ¹¤×÷µÄÏûÏ¢¡£
+æ”¿åºœæŠŠéœ²ä¸é€åˆ°å­¦æ ¡æ˜¯ä¸ºäº†ç¡®ä¿è¿™äº›å¥³å­©ä¸è¢«è™å¾…ã€‚å¥¹åœ¨å­¦æ ¡è‘£äº‹ä¼šä¸­ä¹Ÿæœ‰ä¸€å¸­ä¹‹åœ°ï¼Œå¹¶å‘èª“è¦æŠ•ç¥¨åå¯¹ä½ çš„æ‰€æœ‰æè®®ã€‚æ—¢ç„¶å¥¹ä¸ºæ”¿åºœå·¥ä½œï¼Œé‚£ä¹ˆæ•™è‚²éƒ¨é•¿ä¸€å®šæ˜¯å¥¹çš„è€æ¿ã€‚å¸Œæœ›ç§˜ä¹¦æ²¡æœ‰å¬åˆ°ä½ åˆåœ¨æ•™è‚²éƒ¨é—¨å·¥ä½œçš„æ¶ˆæ¯ã€‚
 >>>>>
 Mr Mykock represents the mysterious owners of the school. They are keen to see good old-fashioned discipline reintroduced. On your first day at work he informed you that a secret camera has been installed in your office. The school's owners are keen to see that the girls are being properly disciplined. If they approve of your punishments then money will be sent to your account. It seems like an unusual way for a school to be funded.
 ###
-Ã×¿Æ¿ËÏÈÉú´ú±í×ÅÑ§Ğ£µÄÉñÃØËùÓĞÕß¡£ËûÃÇ¿ÊÍû¿´µ½Á¼ºÃµÄ¾ÉÊ½¼ÍÂÉ±»ÖØĞÂÒıÈë¡£ÔÚÄãÉÏ°àµÄµÚÒ»Ìì£¬Ëû¸æËßÄã£¬ÄãµÄ°ì¹«ÊÒÀï°²×°ÁËÒ»Ì¨ÃØÃÜÉãÏñ»ú¡£ÕâËùÑ§Ğ£µÄÀÏ°åÃÇ·Ç³£Ï£Íû¿´µ½ÕâĞ©Å®º¢ÊÜµ½ÊÊµ±µÄ¹Ü½Ì¡£Èç¹ûËûÃÇÍ¬ÒâÄãµÄ³Í·££¬ÄÇÃ´Ç®½«±»ËÍµ½ÄãµÄÕÊ»§¡£¶ÔÒ»ËùÑ§Ğ£À´Ëµ£¬ÕâËÆºõÊÇÒ»ÖÖ²»Í¬Ñ°³£µÄ³ï×Ê·½Ê½¡£
+ç±³ç§‘å…‹å…ˆç”Ÿä»£è¡¨ç€å­¦æ ¡çš„ç¥ç§˜æ‰€æœ‰è€…ã€‚ä»–ä»¬æ¸´æœ›çœ‹åˆ°è‰¯å¥½çš„æ—§å¼çºªå¾‹è¢«é‡æ–°å¼•å…¥ã€‚åœ¨ä½ ä¸Šç­çš„ç¬¬ä¸€å¤©ï¼Œä»–å‘Šè¯‰ä½ ï¼Œä½ çš„åŠå…¬å®¤é‡Œå®‰è£…äº†ä¸€å°ç§˜å¯†æ‘„åƒæœºã€‚è¿™æ‰€å­¦æ ¡çš„è€æ¿ä»¬éå¸¸å¸Œæœ›çœ‹åˆ°è¿™äº›å¥³å­©å—åˆ°é€‚å½“çš„ç®¡æ•™ã€‚å¦‚æœä»–ä»¬åŒæ„ä½ çš„æƒ©ç½šï¼Œé‚£ä¹ˆé’±å°†è¢«é€åˆ°ä½ çš„å¸æˆ·ã€‚å¯¹ä¸€æ‰€å­¦æ ¡æ¥è¯´ï¼Œè¿™ä¼¼ä¹æ˜¯ä¸€ç§ä¸åŒå¯»å¸¸çš„ç­¹èµ„æ–¹å¼ã€‚
 >>>>>
 Mary is one of the students. She has an identical twin sister at the school called Louise. You're going to have some trouble telling these two apart.
 ###
-ÂêÀöÊÇÑ§ÉúÖ®Ò»¡£ËıÔÚÑ§Ğ£ÓĞÒ»¸öÍ¬ÂÑË«°ûÌ¥ÃÃÃÃ£¬Ãû½ĞÂ·Ò×Ë¹¡£ÄãºÜÄÑ°ÑÕâÁ½¸öÈË·Ö¿ª¡£
+ç›ä¸½æ˜¯å­¦ç”Ÿä¹‹ä¸€ã€‚å¥¹åœ¨å­¦æ ¡æœ‰ä¸€ä¸ªåŒåµåŒèƒèƒå¦¹å¦¹ï¼Œåå«è·¯æ˜“æ–¯ã€‚ä½ å¾ˆéš¾æŠŠè¿™ä¸¤ä¸ªäººåˆ†å¼€ã€‚
 >>>>>
 Sally is the head of the sports department and a member of the school board. She is also responsible for carrying out corporal punishments. She followed your instructions very well and you think with a little persuasion she might be willing to use some of your more advanced punishment techniques. As no men were using it, she had been changing in the men's locker room rather than with the students. She asked to continue using the men's room now that you've arrived.
 ###
-É¯ÀòÊÇÌåÓıÏµÖ÷ÈÎºÍÑ§Ğ£¶­ÊÂ»á³ÉÔ±¡£Ëı»¹¸ºÔğÊµÊ©Ìå·£¡£ËıºÜºÃµØ×ñÑ­ÁËÄãµÄÖ¸Ê¾£¬ÄãÈÏÎªÖ»ÒªÉÔ¼ÓÈ°Ëµ£¬Ëı¿ÉÄÜÔ¸ÒâÊ¹ÓÃÄãµÄÒ»Ğ©¸üÏÈ½øµÄ³Í·£¼¼ÇÉ¡£ÓÉÓÚÃ»ÓĞÄĞÊ¿Ê¹ÓÃ£¬ËıÔÚÄĞÊ¿¸üÒÂÊÒ»»ÒÂ·ş£¬¶ø²»ÊÇºÍÑ§ÉúÒ»Æğ»»¡£Äãµ½ÁË£¬ËıÒªÇó¼ÌĞøÊ¹ÓÃÄĞ²ŞËù¡£
+èè‰æ˜¯ä½“è‚²ç³»ä¸»ä»»å’Œå­¦æ ¡è‘£äº‹ä¼šæˆå‘˜ã€‚å¥¹è¿˜è´Ÿè´£å®æ–½ä½“ç½šã€‚å¥¹å¾ˆå¥½åœ°éµå¾ªäº†ä½ çš„æŒ‡ç¤ºï¼Œä½ è®¤ä¸ºåªè¦ç¨åŠ åŠè¯´ï¼Œå¥¹å¯èƒ½æ„¿æ„ä½¿ç”¨ä½ çš„ä¸€äº›æ›´å…ˆè¿›çš„æƒ©ç½šæŠ€å·§ã€‚ç”±äºæ²¡æœ‰ç”·å£«ä½¿ç”¨ï¼Œå¥¹åœ¨ç”·å£«æ›´è¡£å®¤æ¢è¡£æœï¼Œè€Œä¸æ˜¯å’Œå­¦ç”Ÿä¸€èµ·æ¢ã€‚ä½ åˆ°äº†ï¼Œå¥¹è¦æ±‚ç»§ç»­ä½¿ç”¨ç”·å•æ‰€ã€‚
 >>>>>
 Alice is having trouble with her lessons and has asked for your help. You told her to come see you in your office to talk about her problem.
 ###
-°¬ÀöË¹ÔÚ¹¦¿ÎÉÏÓĞÀ§ÄÑ£¬ËıÇëÇóÄãµÄ°ïÖú¡£Äã½ĞËıµ½Äã°ì¹«ÊÒÀ´ÕÒÄãÌ¸Ì¸ËıµÄÎÊÌâ¡£
+è‰¾ä¸½æ–¯åœ¨åŠŸè¯¾ä¸Šæœ‰å›°éš¾ï¼Œå¥¹è¯·æ±‚ä½ çš„å¸®åŠ©ã€‚ä½ å«å¥¹åˆ°ä½ åŠå…¬å®¤æ¥æ‰¾ä½ è°ˆè°ˆå¥¹çš„é—®é¢˜ã€‚
 >>>>>
 Claire is the head of the English department and is a member of the school board. She seems like a nice woman but isn't able to control her class. I should spend some time with her and teach her to be more assertive.
 ###
-¿ËÀ³¶ûÊÇÓ¢ÓïÏµÖ÷ÈÎ£¬Ò²ÊÇÑ§Ğ£¶­ÊÂ»á³ÉÔ±¡£Ëı¿´ÆğÀ´ÊÇ¸ö²»´íµÄÅ®ÈË£¬µ«ÎŞ·¨¿ØÖÆ×Ô¼ºµÄ°à¼¶¡£ÎÒÓ¦¸Ã»¨µãÊ±¼äºÍËıÔÚÒ»Æğ£¬½ÌËı¸ü¼Ó×ÔĞÅ¡£
+å…‹è±å°”æ˜¯è‹±è¯­ç³»ä¸»ä»»ï¼Œä¹Ÿæ˜¯å­¦æ ¡è‘£äº‹ä¼šæˆå‘˜ã€‚å¥¹çœ‹èµ·æ¥æ˜¯ä¸ªä¸é”™çš„å¥³äººï¼Œä½†æ— æ³•æ§åˆ¶è‡ªå·±çš„ç­çº§ã€‚æˆ‘åº”è¯¥èŠ±ç‚¹æ—¶é—´å’Œå¥¹åœ¨ä¸€èµ·ï¼Œæ•™å¥¹æ›´åŠ è‡ªä¿¡ã€‚
 >>>>>
 Cassandra is one of the students. She as very rude to you when you met. Clearly she needs to be taught some respect.
 ###
-¿¨É£µÂÀ­ÊÇÑ§ÉúÖ®Ò»¡£Äã¼ûÃæÊ±Ëı¶ÔÄãºÜ´ÖÂ³¡£ÏÔÈ»£¬ËıĞèÒªµÃµ½Ò»Ğ©×ğÖØ¡£
+å¡æ¡‘å¾·æ‹‰æ˜¯å­¦ç”Ÿä¹‹ä¸€ã€‚ä½ è§é¢æ—¶å¥¹å¯¹ä½ å¾ˆç²—é²ã€‚æ˜¾ç„¶ï¼Œå¥¹éœ€è¦å¾—åˆ°ä¸€äº›å°Šé‡ã€‚
 >>>>>
 Lucy seemed like a polite young woman. She has asked to come see you in your office about a personal matter.
 ###
-Â¶Î÷¿´ÆğÀ´Ïñ¸öÓĞÀñÃ²µÄÄêÇáÅ®×Ó¡£ËıÒªÇóµ½Äã°ì¹«ÊÒÀ´¼ûÄã£¬Ì¸Ò»¼şË½ÊÂ¡£
+éœ²è¥¿çœ‹èµ·æ¥åƒä¸ªæœ‰ç¤¼è²Œçš„å¹´è½»å¥³å­ã€‚å¥¹è¦æ±‚åˆ°ä½ åŠå…¬å®¤æ¥è§ä½ ï¼Œè°ˆä¸€ä»¶ç§äº‹ã€‚
 >>>>>
 Debbie Harris is a known troublemaker and is the first girl to be sent to your office for punishment. She clearly has some behavioural issues and you will need to use your unique punishment methods to influence her behaviour.
 ###
-÷ì±È¡¤¹şÀïË¹ÊÇÖÚËùÖÜÖªµÄµ·ÂÒÕß£¬Ò²ÊÇµÚÒ»¸ö±»ËÍµ½Äã°ì¹«ÊÒ½ÓÊÜ³Í·£µÄÅ®º¢¡£ËıÏÔÈ»ÓĞÒ»Ğ©ĞĞÎªÎÊÌâ£¬ÄãĞèÒªÊ¹ÓÃÄã¶ÀÌØµÄ³Í·£·½·¨À´Ó°ÏìËıµÄĞĞÎª¡£
+é»›æ¯”Â·å“ˆé‡Œæ–¯æ˜¯ä¼—æ‰€å‘¨çŸ¥çš„æ£ä¹±è€…ï¼Œä¹Ÿæ˜¯ç¬¬ä¸€ä¸ªè¢«é€åˆ°ä½ åŠå…¬å®¤æ¥å—æƒ©ç½šçš„å¥³å­©ã€‚å¥¹æ˜¾ç„¶æœ‰ä¸€äº›è¡Œä¸ºé—®é¢˜ï¼Œä½ éœ€è¦ä½¿ç”¨ä½ ç‹¬ç‰¹çš„æƒ©ç½šæ–¹æ³•æ¥å½±å“å¥¹çš„è¡Œä¸ºã€‚
 >>>>>
 1)Upgrade your science classroom by using the construction menu on your computer.
 ###
-1£© Ê¹ÓÃ¼ÆËã»úÉÏµÄ¡°ÉèÊ©¡±²Ëµ¥Éı¼¶¿ÆÑ§½ÌÊÒ¡£
+1ï¼‰ ä½¿ç”¨è®¡ç®—æœºä¸Šçš„â€œè®¾æ–½â€èœå•å‡çº§ç§‘å­¦æ•™å®¤ã€‚
 >>>>>
 Mr Wilson the maths teacher appears to have an unhealthy fixation on one of the students. A sweet and innocent girl by the name of Priti. He has asked for you to steal her email password.
 ###
-ÊıÑ§ÀÏÊ¦Íş¶ûÑ·ÏÈÉúËÆºõ¶ÔÆäÖĞÒ»¸öÑ§ÉúÓĞ×ÅÄ³Ğ©²»½¡¿µµÄêéêì¡£ÄÇÊÇÒ»¸ö½ĞÆÕÀïµÙµÄ¿É°®ÌìÕæµÄÅ®º¢¡£ËûÈÃÄãÍµËıµÄµç×ÓÓÊ¼şÃÜÂë¡£
+æ•°å­¦è€å¸ˆå¨å°”é€Šå…ˆç”Ÿä¼¼ä¹å¯¹å…¶ä¸­ä¸€ä¸ªå­¦ç”Ÿæœ‰ç€æŸäº›ä¸å¥åº·çš„è§Šè§ã€‚é‚£æ˜¯ä¸€ä¸ªå«æ™®é‡Œè’‚çš„å¯çˆ±å¤©çœŸçš„å¥³å­©ã€‚ä»–è®©ä½ å·å¥¹çš„ç”µå­é‚®ä»¶å¯†ç ã€‚
 >>>>>
 1) Ask Miss Chang if she knows how to steal someone's email password without them knowing.
 ###
-1£© ÎÊÎÊÕÅĞ¡½ã£¬ËıÊÇ·ñÖªµÀÈçºÎÔÚ±ğÈË²»Öª²»¾õµÄÇé¿öÏÂÇÔÈ¡±ğÈËµÄµç×ÓÓÊ¼şÃÜÂë¡£
+1ï¼‰ é—®é—®å¼ å°å§ï¼Œå¥¹æ˜¯å¦çŸ¥é“å¦‚ä½•åœ¨åˆ«äººä¸çŸ¥ä¸è§‰çš„æƒ…å†µä¸‹çªƒå–åˆ«äººçš„ç”µå­é‚®ä»¶å¯†ç ã€‚
 >>>>>
 Discipline is low and the girls are not studying in their free time. You must assert your authority and bring order to the school.
 ###
-ÕâÀïµÄ¼ÍÂÉºÜÔã¸â£¬Å®º¢ÃÇÃ»ÓĞÔÚ¿ÕÏĞÊ±¼äÑ§Ï°¡£Äã±ØĞëÎ¬»¤ÄãµÄÈ¨Íş£¬¸øÑ§Ğ£´øÀ´ÖÈĞò¡£
+è¿™é‡Œçš„çºªå¾‹å¾ˆç³Ÿç³•ï¼Œå¥³å­©ä»¬æ²¡æœ‰åœ¨ç©ºé—²æ—¶é—´å­¦ä¹ ã€‚ä½ å¿…é¡»ç»´æŠ¤ä½ çš„æƒå¨ï¼Œç»™å­¦æ ¡å¸¦æ¥ç§©åºã€‚
 >>>>>
 1) Increase Discipline to 20 to prevent Grades from declining.
 ###
-1£© ½«¼ÍÂÉÔö¼Óµ½20ÒÔ·ÀÖ¹³É¼¨ÏÂ½µ¡£
+1ï¼‰ å°†çºªå¾‹å¢åŠ åˆ°20ä»¥é˜²æ­¢æˆç»©ä¸‹é™ã€‚
 >>>>>
 2) Help Miss Potts control her class.
 ###
-°ïÖú²¨´ÄĞ¡½ã¹ÜÀíºÃËıµÄ¿ÎÌÃ¡£
+å¸®åŠ©æ³¢èŒ¨å°å§ç®¡ç†å¥½å¥¹çš„è¯¾å ‚ã€‚
 >>>>>
 3) Improve the science facilities for Miss Chang
 ###
-ÎªÕÅĞ¡½ãÉı¼¶Ñ§Ğ£µÄÉè±¸¡£
+ä¸ºå¼ å°å§å‡çº§å­¦æ ¡çš„è®¾å¤‡ã€‚
 >>>>>
 4) Win Mr Wilson to your side.
 ###
-½«Íş¶ûÉ­ÏÈÉúÀ­µ½ÄãµÄÕóÓª¡£
+å°†å¨å°”æ£®å…ˆç”Ÿæ‹‰åˆ°ä½ çš„é˜µè¥ã€‚
 >>>>>
 5) Implement a new rule at a weekly meeting of the school board.
 ###
-ÔÚÃ¿ÖÜµÄĞ£¶­»áÉÏÍ¨¹ıÒ»ÏîĞÂµÄÌõÀı¡£
+åœ¨æ¯å‘¨çš„æ ¡è‘£ä¼šä¸Šé€šè¿‡ä¸€é¡¹æ–°çš„æ¡ä¾‹ã€‚
 >>>>>
 {color=#606060}6) Purchase some Viagra from the online store. COMPLETE.{/color}
 ###
-{color=#606060}6£©´ÓÍøÉÏÉÌµê¹ºÂòÒ»Ğ©Î°¸ç¡£Íê³É¡£{/color}
+{color=#606060}6ï¼‰ä»ç½‘ä¸Šå•†åº—è´­ä¹°ä¸€äº›ä¼Ÿå“¥ã€‚å®Œæˆã€‚{/color}
 >>>>>
 7) Deliver the pills to Mr Wilson and inform him that the prostitute has been ordered.
 ###
-7£© °ÑÒ©½»¸øÍş¶ûÑ·ÏÈÉú£¬¸æËßËû¼ËÅ®ÒÑ¾­±»ÀÕÁîÁË¡£
+7ï¼‰ æŠŠè¯äº¤ç»™å¨å°”é€Šå…ˆç”Ÿï¼Œå‘Šè¯‰ä»–å¦“å¥³å·²ç»è¢«å‹’ä»¤äº†ã€‚
 >>>>>
 {color=#606060}6) Purchase some Viagra from the online store. COMPLETE.{/color}
 ###
-{color=#606060}6£©´ÓÍøÉÏÉÌµê¹ºÂòÒ»Ğ©Î°¸ç¡£Íê³É¡£{/color}
+{color=#606060}6ï¼‰ä»ç½‘ä¸Šå•†åº—è´­ä¹°ä¸€äº›ä¼Ÿå“¥ã€‚å®Œæˆã€‚{/color}
 >>>>>
 {color=#606060}1) Purchase a paddle from the online store.{/color}
 ###
-{color=#606060}1£©´ÓÍøÉÏÉÌµê¹ºÂòÇòÅÄ¡£{/color}
+{color=#606060}1ï¼‰ä»ç½‘ä¸Šå•†åº—è´­ä¹°çƒæ‹ã€‚{/color}
 >>>>>
 3) Catch Debbie misbehaving and sentence her to a private punishment.
 ###
-3£© ×¥×¡ĞĞÎª²»¶ËµÄ÷ì±È£¬¶ÔËı½øĞĞË½ÈË³Í·£¡£
+3ï¼‰ æŠ“ä½è¡Œä¸ºä¸ç«¯çš„é»›æ¯”ï¼Œå¯¹å¥¹è¿›è¡Œç§äººæƒ©ç½šã€‚
 >>>>>
 5) Summon Priti to your office then decide how to obtain naked photos of her.
 ###
-5£© °ÑÆÕÀïµÙ½Ğµ½ÄãµÄ°ì¹«ÊÒ£¬È»ºó¾ö¶¨ÈçºÎ»ñµÃËıµÄÂãÕÕ¡£
+5ï¼‰ æŠŠæ™®é‡Œè’‚å«åˆ°ä½ çš„åŠå…¬å®¤ï¼Œç„¶åå†³å®šå¦‚ä½•è·å¾—å¥¹çš„è£¸ç…§ã€‚
 >>>>>
 {color=#606060}1) Purchase the ointment from the online store to provide extra pleasure during punishment. COMPLETE{/color}
 ###
-{color=#606060}1£©ÔÚÍøÉÏÉÌµê¹ºÂòÈí¸à£¬ÔÚ³Í·£ÆÚ¼äÌá¹©¶îÍâµÄÀÖÈ¤¡£ÍêÈ«{/color}
+{color=#606060}1ï¼‰åœ¨ç½‘ä¸Šå•†åº—è´­ä¹°è½¯è†ï¼Œåœ¨æƒ©ç½šæœŸé—´æä¾›é¢å¤–çš„ä¹è¶£ã€‚å®Œå…¨{/color}
 >>>>>
 3) Catch Rachel falling asleep in class again and then convince her to talk to you about her night-time habits.
 ###
-3£© ×¥µ½ÈğÇïÔÚ¿ÎÌÃÉÏÔÙ´ÎË¯×Å£¬È»ºóËµ·şËıºÍÄãÌ¸Ì¸ËıµÄÒ¹¼äÏ°¹ß¡£
+3ï¼‰ æŠ“åˆ°ç‘ç§‹åœ¨è¯¾å ‚ä¸Šå†æ¬¡ç¡ç€ï¼Œç„¶åè¯´æœå¥¹å’Œä½ è°ˆè°ˆå¥¹çš„å¤œé—´ä¹ æƒ¯ã€‚
 >>>>>
 7) Punish Rachel again and teach her to be less anxious about her body.
 ###
-7£© ÔÙ´Î³Í·£ÈğÇï£¬½ÌËı²»ÒªÎª×Ô¼ºµÄÉíÌåµ£ĞÄ¡£
+7ï¼‰ å†æ¬¡æƒ©ç½šç‘ç§‹ï¼Œæ•™å¥¹ä¸è¦ä¸ºè‡ªå·±çš„èº«ä½“æ‹…å¿ƒã€‚
 >>>>>
 {color=#606060}6) Purchase a cane (optional). COMPLETE{/color}
 ###
-{color=#606060}6£©¹ºÂòÊÖÕÈ£¨¿ÉÑ¡£©¡£ÍêÈ«{/color}
+{color=#606060}6ï¼‰è´­ä¹°æ‰‹æ–ï¼ˆå¯é€‰ï¼‰ã€‚å®Œå…¨{/color}
 >>>>>
 7) Convince the school board to allow you to punish the girls yourself.
 ###
-7£© Ëµ·şÑ§Ğ£¶­ÊÂ»áÔÊĞíÄã×Ô¼º³Í·£ÕâĞ©Å®º¢¡£
+7ï¼‰ è¯´æœå­¦æ ¡è‘£äº‹ä¼šå…è®¸ä½ è‡ªå·±æƒ©ç½šè¿™äº›å¥³å­©ã€‚
 >>>>>
 7) Patrol the halls and look out for Amy misbehaving.
 ###
-7£© Ñ²ÊÓ´óÌü£¬×¢Òâ°¬Ã×µÄĞĞÎª²»¶Ë¡£
+7ï¼‰ å·¡è§†å¤§å…ï¼Œæ³¨æ„è‰¾ç±³çš„è¡Œä¸ºä¸ç«¯ã€‚
 >>>>>
 {color=#606060}5) Purchase chastity panties online. COMPLETE{/color}
 ###
-{color=#606060}5£©ÔÚÏß¹ºÂòÕê²ÙÄÚ¿ã¡£ÍêÈ«{/color}
+{color=#606060}5ï¼‰åœ¨çº¿è´­ä¹°è´æ“å†…è£¤ã€‚å®Œå…¨{/color}
 >>>>>
 6) Wait until Saturday evening for your date wih Cassandra.
 ###
-6£© µÈµ½ÖÜÁùÍíÉÏÔÙºÍ¿¨É£µÂÀ­Ô¼»á¡£
+6ï¼‰ ç­‰åˆ°å‘¨å…­æ™šä¸Šå†å’Œå¡æ¡‘å¾·æ‹‰çº¦ä¼šã€‚
 >>>>>
 {color=#606060}1) Upgrade your science classroom by using the construction menu on your computer. COMPLETE{/color}
 ###
-{color=#606060}1£©Ê¹ÓÃ¼ÆËã»úÉÏµÄ¡°¹¹Ôì¡±²Ëµ¥Éı¼¶¿ÆÑ§½ÌÊÒ¡£ÍêÈ«{/color}
+{color=#606060}1ï¼‰ä½¿ç”¨è®¡ç®—æœºä¸Šçš„â€œæ„é€ â€èœå•å‡çº§ç§‘å­¦æ•™å®¤ã€‚å®Œå…¨{/color}
 >>>>>
 2) Tell Miss Chang you have ordered new equipment for her.
 ###
-2£© ¸æËßÕÅĞ¡½ãÄãÒÑ¾­ÎªËı¶©¹ºÁËĞÂÉè±¸¡£
+2ï¼‰ å‘Šè¯‰å¼ å°å§ä½ å·²ç»ä¸ºå¥¹è®¢è´­äº†æ–°è®¾å¤‡ã€‚
