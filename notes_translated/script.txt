@@ -1,8 +1,4 @@
 >>>>>
-First Day at School
-###
-在校第一天
->>>>>
 It's your first day as the headmaster at an all girls college for troubled teens. Your PA Samantha has kindly prepared a schedule for you to help you get settled in.
 ###
 这是一所针对问题青少年女子的收容学院，今天是你在这里担任校长的第一天。你的助理萨曼莎已经为你准备了一份时间表，帮助你安顿下来。
@@ -10,10 +6,6 @@ It's your first day as the headmaster at an all girls college for troubled teens
 1) Familiarise yourself with your office then head to the classrooms.
 ###
 1） 熟悉你的办公室，然后去教室。
->>>>>
-If a Headmaster Falls in the Woods
-###
-如果校长失足于森林
 >>>>>
 The old headmaster was worried he was being followed in the woods. Could he have been murdered? You decide to investigate in case you yourself are in danger.
 ###
@@ -23,10 +15,6 @@ The old headmaster was worried he was being followed in the woods. Could he have
 ###
 1） 询问其他员工关于老校长的情况，看看是否有人了解他死亡的细节。
 >>>>>
-Experiments gone wild
-###
-不按计划进行的实验
->>>>>
 Miss Chang has complained about the lack of science facilities at the school.
 ###
 张小姐抱怨学校缺乏科学设施。
@@ -34,10 +22,6 @@ Miss Chang has complained about the lack of science facilities at the school.
 1) Upgrade your science classroom by using the construction menu on your computer.
 ###
 1） 使用计算机上的“构造”菜单升级科学教室。
->>>>>
-Teaching Miss Potts
-###
-训练波茨小姐
 >>>>>
 Miss Potts can't control her class. Fortunately you are an expert in disciplining young women and have offered to pass on some of your skills.
 ###
@@ -111,11 +95,6 @@ Debbie Harris is a known troublemaker and is the first girl to be sent to your o
 ###
 1） 使用计算机上的“设施”菜单升级科学教室。
 >>>>>
-
-Priti as a Picture
-###
-照片里的普利蒂
->>>>>
 Mr Wilson the maths teacher appears to have an unhealthy fixation on one of the students. A sweet and innocent girl by the name of Priti. He has asked for you to steal her email password.
 ###
 数学老师威尔逊先生似乎对其中一个学生有着某些不健康的觊觎。那是一个叫普里蒂的可爱天真的女孩。他让你偷她的电子邮件密码。
@@ -123,10 +102,6 @@ Mr Wilson the maths teacher appears to have an unhealthy fixation on one of the 
 1) Ask Miss Chang if she knows how to steal someone's email password without them knowing.
 ###
 1） 问问张小姐，她是否知道如何在别人不知不觉的情况下窃取别人的电子邮件密码。
->>>>>
-Order to the Chaos
-###
-混乱中的秩序
 >>>>>
 Discipline is low and the girls are not studying in their free time. You must assert your authority and bring order to the school.
 ###

@@ -35,10 +35,6 @@ Maxine is the Student President. She is a campaigner for social justice and was 
 ###
 5） 想办法给数学老师找个妓女。
 >>>>>
-Sally Learns the Ropes
-###
-萨莉学会了诀窍
->>>>>
 Sally is already an accoplished disciplinarian and you think she might be ready to learn some of your advanced teaching methods.
 ###
 萨莉已经是一名训练有素的教师，你认为她可能已经准备好学习你的一些先进教学方法了。
@@ -46,10 +42,6 @@ Sally is already an accoplished disciplinarian and you think she might be ready 
 1) Purchase a paddle from the online store.
 ###
 1） 从网上商店购买拍子。
->>>>>
-A Man's Work
-###
-一份男人的工作
 >>>>>
 Some jobs are best left to a man. Spanking naughty schoolgirls is a prime example.
 ###
@@ -59,21 +51,13 @@ Some jobs are best left to a man. Spanking naughty schoolgirls is a prime exampl
 ###
 1） 在学校董事会下次会议上了解你的同事对修改校规的看法。
 >>>>>
-Taming a Prefect
-###
-驯服你的级长
->>>>>
 You need a strong girl on your side to keep the others in line. Debbie would be ideal if she wasn't so wild. Use Miss Newman to tame the savage girl in your office.
 ###
 你需要一个坚强的女孩站在你这边，帮助你规范其他人的行为。如果黛比不是那么狂野的话，变得温顺的她会是理想的对象。利用纽曼小姐驯服你办公室里的野蛮女孩。
 >>>>>
 1) Raise Debbie to level 5 and assign her the role of Prefect. Follow the questlog for Miss Newman.
 ###
-1） 将黛比提升到5级，并指派她担任级长。跟随纽曼小姐的任务线完成此任务。
->>>>>
-A Troublesome Inspector
-###
-麻烦的检查员
+1） 将黛比提升到5级，并指派她担任级长。跟着纽曼小姐的问路走。
 >>>>>
 In order to ensure the girls are not being mistreated the government sent an inspector to your school by the name Ruth Thomas. Ruth is determined to prevent you from being able to punish the girls yourself. She is immune to your charms and you will need to find some other way to convince her.
 ###
@@ -111,10 +95,6 @@ In order to ensure the girls are not being mistreated the government sent an ins
 ###
 3） 让吉米带你去看看老校长去世的地方。
 >>>>>
-The Headmaster's Pet
-###
-校长的私人宠物
->>>>>
 A cute young woman named Rachel keeps falling asleep in lessons. She appears to be addicted to computer games, although you suspect this is merely a symptom of some deeper problem. You will need to learn more about her if you are to help her overcome her addiction. Perhaps you can also find a role for her to help you in the running of the school.
 ###
 一个叫瑞秋的可爱女孩在上课时总是睡着。她似乎沉迷于电脑游戏，尽管你怀疑这只是一些更深层次问题的表层症状。如果你想帮助她戒掉网瘾，你需要更多地了解她。也许你也可以为她找一个合适的工作来帮助你管理学校。
@@ -130,10 +110,6 @@ A cute young woman named Rachel keeps falling asleep in lessons. She appears to 
 4) Have at least one student enforcer (Prefect).
 ###
 4） 至少有一名学生执行委员（级长）。
->>>>>
-The Spanking Connoisseur
-###
-打屁股的行家
 >>>>>
 A young athlete named Amy is constantly late and always runs around at dangerous speeds as a result. It's a bad habit that is disruptive to your lessons and you fear that she might one day injure someone. From observation of the girl during her punishments you have determined that she is a masochist, deriving sexual pleasure from pain. A girl like her could prove useful to you as a practice subject to help train your staff and Prefects in the art of discipline.
 ###
@@ -523,10 +499,6 @@ April's rival Charlotte claimed that April did a lot of graffiti. I found a mark
 ###
 5） 问问张小姐，她对英国国防系统制造商了解多少。
 >>>>>
-Leave No Girl's Behind
-###
-不要让任何女孩掉队
->>>>>
 You are finally able to punish the girls yourself and grades and discipline are bound to increase rapidly as a result. Ruth will be giving the girls a test soon and every single girl needs to pass with flying colours. You will need to improve overall grades by teaching lesson and you will need to focus on any individual girls who may be falling behind.
 ###
 你终于可以自己惩罚这些女孩了，成绩和纪律肯定会因此迅速提高。露丝很快就要给女孩们一个测试，每个女孩都必须以优异的成绩通过。你需要通过授课来提高整体成绩，你需要关注任何可能落后的女生。
@@ -535,10 +507,6 @@ You are finally able to punish the girls yourself and grades and discipline are 
 ###
 1） 取得100分。
 >>>>>
-The Reluctant Rebel
-###
-不情愿的叛军
->>>>>
 Mr Mykock told you that the school's owners had taken a particular interest in one of the students, Priti, and have offered you additional incentive to watch her being punished in our office. However, Priti is doing well at school and is top of you class, you have no real reason to punish her. Perhaps though she has some other character flaws that can be solved using your punishment methods.
 ###
 麦考克先生告诉你，学校的老板对其中一个学生普利蒂特别感兴趣，并给你额外的奖赏，让你看着她在我们办公室受到惩罚。然而，普里蒂在学校表现很好，是你们班的第一名，你们并没有真正的理由惩罚她。也许她还有其他一些性格缺陷可以用你的惩罚方法来解决。
@@ -546,10 +514,6 @@ Mr Mykock told you that the school's owners had taken a particular interest in o
 1) Observe Priti in class and watch for any misbehaviour.
 ###
 1） 在课堂上观察普利蒂，注意任何不当行为。
->>>>>
-The Accidental Nudist
-###
-偶然的裸体主义者
 >>>>>
 Emily lost her towel at the beach and had to pretend to be a nudist to avoid a punishment for streaking. You decided that it would be a good idea to open an official school nudist area. First though you wanted to run the idea past Sally.
 ###
@@ -578,10 +542,6 @@ I spotted Liz daydreaming in class. When questioned she admitted that she is bei
 7) Continue observing Rachel's behaviour as you go about your business around the school (you will need to pass the body search rule).
 ###
 7） 在学校里继续观察瑞秋的行为（你需要通过搜身规则）。
->>>>>
-The Hostess with Mostess
-###
-最受欢迎的女主人
 >>>>>
 Cassandra is constantly getting in trouble. Whether it's by using her phone in class or simply by being disrespectful to her teachers. When questioned about her bad attitude Cassandra explained that she has no intention in working hard at school expecting that her good looks will win her a wealthy husband to provide for her. Realising that you may have found a way to manipulate her into behaving, you offered to help her in her goal of meeting her prince charming in exchange for her good behaviour in class. Meanwhile, Mr Mykock emailed, informing you that some of the school's wealthy financial backers wanted a tour of the school and wished to be shown around by a student. You realised that with the right training Cassandra would perfect for the role.
 ###

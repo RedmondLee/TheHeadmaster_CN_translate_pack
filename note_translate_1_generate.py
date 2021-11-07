@@ -9,16 +9,13 @@ for files in os.walk(working_dir):
     files = files | Filter(lambda x:os.path.splitext(x)[1] == '.rpy') | list
     break
 
-# pattern_notes = '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*?=[ ]*?".+?"[\n]'
-# pattern_qname = 'q_name[ ]*?=[ ]*?".+?",'
-# pattern_description = 'description[ ]*?=[ ]*?".+?",'
-# pattern_note1 = 'note1[ ]*?=[ ]*?".+?",'
 patterns = [
     '\$[ ][a-zA-Z0-9_]+?\.note[s]*[a-zA-Z0-9_]*?[ ]*?=[ ]*?".+?"[\n]', #notes
-    'q_name[ ]*?=[ ]*?".+?",', # qname
+    # 'q_name[ ]*?=[ ]*?".+?",', # qname
     'description[ ]*?=[ ]*?".+?",', # description
     'note1[ ]*?=[ ]*?".+?",' # note1
 ]
+# 修正：qname似乎联动牵扯比较多，非手动的话不宜修改
 patterns = '|'.join(patterns | Map(lambda x:f"({x})"))
 
 # 一个问题是文本中有没有转义换行符，识别时以行为单位是否合适

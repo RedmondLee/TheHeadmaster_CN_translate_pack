@@ -1,17 +1,9 @@
 >>>>>
-First Day at School
-###
-
->>>>>
 It's your first day as the headmaster at an all girls college for troubled teens. Your PA Samantha has kindly prepared a schedule for you to help you get settled in.
 ###
 
 >>>>>
 1) Familiarise yourself with your office then head to the classrooms.
-###
-
->>>>>
-If a Headmaster Falls in the Woods
 ###
 
 >>>>>
@@ -23,19 +15,11 @@ The old headmaster was worried he was being followed in the woods. Could he have
 ###
 
 >>>>>
-Experiments gone wild
-###
-
->>>>>
 Miss Chang has complained about the lack of science facilities at the school.
 ###
 
 >>>>>
 1) Upgrade your science classroom by using the construction menu on your computer.
-###
-
->>>>>
-Teaching Miss Potts
 ###
 
 >>>>>
@@ -111,19 +95,11 @@ Debbie Harris is a known troublemaker and is the first girl to be sent to your o
 ###
 
 >>>>>
-Priti as a Picture
-###
-
->>>>>
 Mr Wilson the maths teacher appears to have an unhealthy fixation on one of the students. A sweet and innocent girl by the name of Priti. He has asked for you to steal her email password.
 ###
 
 >>>>>
 1) Ask Miss Chang if she knows how to steal someone's email password without them knowing.
-###
-
->>>>>
-Order to the Chaos
 ###
 
 >>>>>
