@@ -1,3 +1,4 @@
+
 # 使用方法参考readme.md
 current_version = '0.11.1'
 compare_version = None
