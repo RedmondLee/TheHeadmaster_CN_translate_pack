@@ -1,6 +1,10 @@
 # The_Headmaster_CN_translate_pack
 P站游戏 The Headmaster(Altos and Herdone) 的翻译工具包.
 
+## 汉化交流群
+
+971809199
+
 ### 当前更新版本号
 0.11.1
 
