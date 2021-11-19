@@ -85,3 +85,5 @@ ValueError: incomplete format
 在您打开本项目首页后[https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack](https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack) 点击屏幕中唯一的绿色按钮code，再点击download zip，即可下载最新的源码（汉化文本）包。当然，在您熟练使用后，您也可以下载某一历史版本的包。
 
 下载后解压，将所有文件对应地复制到game文件夹下，覆盖image和tl文件夹的内容，重新运行游戏，即可覆盖使用最新的汉化补丁。
+
+需要注意的一点是，在你解压后，覆盖前，需要双击执行文件夹中的reverse_img.exe，该程序会短暂地弹出一个黑色命令行，消失后即可进行覆盖。该程序的作用是快速地将文件夹内所有图片的二进制数据前后反转（反转后上传，可以应对黄色内容等审查，双击reverse_img.exe执行的再次反转，相当于解压操作。）
