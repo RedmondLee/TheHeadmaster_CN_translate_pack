@@ -7828,7 +7828,7 @@ translate chinese pre_dream_19ccc3ff:
 translate chinese pre_dream_9feca076:
 
     # mt "{i}The English teacher Claire seems nice but I fear she doesn't have the ability to control her class.{/i}"
-    mt "英语老师克莱尔看起来很好,但我担心她没有能力控制自己的班级.{/i}"
+    mt "{i}英语老师克莱尔看起来很好,但我担心她没有能力控制自己的班级.{/i}"
 
 # game/intro.rpy:4074
 translate chinese pre_dream_25153f7f:
