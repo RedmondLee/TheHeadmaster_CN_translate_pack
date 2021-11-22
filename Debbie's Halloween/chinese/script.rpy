@@ -1283,7 +1283,6 @@ translate chinese d_halloween_liz_options_c4b2288f:
 
     # kelly "Nooooo!"
     kelly "不！"
-    kelly "不！"
 
 # game/script.rpy:650
 translate chinese d_halloween_liz_options_027ad482:
@@ -1343,98 +1342,84 @@ translate chinese d_halloween_liz_options_1cac054d:
 translate chinese d_halloween_liz_options_24c44720:
 
     # mt "Now I need to find if anyone else is left."
-    mt "现在我要找出还有没有人还活着。"
-    mt "现在我需要找到是否还有其他人。"
+    mt "现在我要找出还有没有其他人剩下了。"
 
 # game/script.rpy:669
 translate chinese d_halloween_liz_options_2cc48335:
 
     # mt "Oh hang on a second. Emily left her replica gun behind."
-    mt "哦，等一下。艾米丽把她的复制品枪落下了。"
-    mt "哦，等一下。艾米丽留下了她的复制枪。"
+    mt "哦，等一下。艾米丽把她的仿真枪落下了。"
 
 # game/script.rpy:670
 translate chinese d_halloween_liz_options_5b9e943a:
 
     # mt "Jesus, that thing looks so real. Emily takes her cosplay really seriously."
-    mt "天哪，那玩意儿看起来太真实了。艾米丽非常认真地对待她的角色扮演。"
-    mt "天哪，那东西看起来太真实了。艾米丽对她的角色扮演非常认真。"
+    mt "天哪，这玩意儿看起来太真实了。艾米丽一定非常认真地对待她的角色扮演。"
 
 # game/script.rpy:671
 translate chinese d_halloween_liz_options_0fb2da9a:
 
     # mt "I'd better hang on to this, it's too dangerous to leave lying around."
-    mt "我最好抓紧这个，躺在那里太危险了。"
-    mt "我最好拿着这个，乱躺着太危险了。"
+    mt "我最好拿着这个，乱放着太危险了。"
 
 # game/script.rpy:677
 translate chinese d_halloween_liz_options_b4ff82a9:
 
     # dh "I don't have time to argue with you three. I'm going to try somewhere else."
-    dh "我没有时间和你们三个争论。我要去别的地方试试。"
-    dh "我没时间和你们三个争论。我想去别的地方试试。"
+    dh "我没有时间和你们三个争论。我要去别的地方看看。"
 
 # game/script.rpy:685
 translate chinese d_halloween_nurse_655eb4ec:
 
     # nr "So, what seems to be the problem?"
-    nr "那么，问题似乎出在哪里呢？"
-    nr "那么，问题是什么？"
+    nr "那么，问题出在哪里呢？"
 
 # game/script.rpy:686
 translate chinese d_halloween_nurse_d6b0374d:
 
     # fr "Well, nurse, I feel very hot all of a sudden."
     fr "嗯，护士，我突然觉得很热。"
-    fr "护士，我突然觉得很热。"
 
 # game/script.rpy:688
 translate chinese d_halloween_nurse_d48eec7d:
 
     # nr "I see, any other symptoms?"
     nr "我明白了，还有其他症状吗？"
-    nr "我明白了，还有其他症状吗？"
 
 # game/script.rpy:689
 translate chinese d_halloween_nurse_05cb4ec5:
 
     # fr "I've got a tingling sensation in my... private area."
-    fr "我的身体有刺痛感.私人区域。"
-    fr "我有一种刺痛的感觉在我的。。。私人区域。"
+    fr "我有一种刺痛的感觉在我的。。。私处。"
 
 # game/script.rpy:690
 translate chinese d_halloween_nurse_8c8202f9:
 
     # fr "Can you tell what's wrong with me, nurse?"
-    fr "护士，你能告诉我是怎么回事吗？"
-    fr "护士，你能告诉我怎么了吗？"
+    fr "护士，你能告诉我我怎么了吗？"
 
 # game/script.rpy:692
 translate chinese d_halloween_nurse_3b98b55f:
 
     # nr "It sounds to me like a severe case of orgasm deficiency syndrome."
-    nr "我听起来像是严重的性高潮缺乏综合症。"
     nr "这听起来像是严重的性高潮缺乏综合症。"
 
 # game/script.rpy:693
 translate chinese d_halloween_nurse_ab447c1a:
 
     # fr "Oh no, that sounds serious."
-    fr "哦，不，那听起来很严重。"
-    fr "哦，不，听起来很严重。"
+    fr "哦，不，这听起来是很严重的病。"
 
 # game/script.rpy:694
 translate chinese d_halloween_nurse_1ad97c7c:
 
     # nr "It is serious but fortunately it's very treatable."
-    nr "这是严重的，但幸运的是它是非常可以治疗的。"
-    nr "它很严重，但幸运的是它是可以治疗的。"
+    nr "确实很严重，但幸运的是它是可以治疗的。"
 
 # game/script.rpy:695
 translate chinese d_halloween_nurse_4d49cdab:
 
     # fr "What's the treatment?"
-    fr "治疗方法是什么？"
     fr "治疗方法是什么？"
 
 # game/script.rpy:697
@@ -1442,41 +1427,35 @@ translate chinese d_halloween_nurse_69c90bfe:
 
     # nr "First we'll need to take off these bandages."
     nr "首先，我们需要解开这些绷带。"
-    nr "首先我们需要脱掉这些绷带。"
 
 # game/script.rpy:699
 translate chinese d_halloween_nurse_85285eea:
 
     # nr "Then I'll need to massage the affected area until the tingling goes away."
-    nr "那么我需要按摩受影响的部位，直到刺痛感消失。"
-    nr "然后我需要按摩患处直到刺痛感消失。"
+    nr "然后我需要按摩受影响的部位，直到刺痛感消失。"
 
 # game/script.rpy:700
 translate chinese d_halloween_nurse_2fd915e6:
 
     # fr "Yes nurse."
-    fr "是的，护士。"
-    fr "是的，护士。"
+    fr "好的，护士。"
 
 # game/script.rpy:702
 translate chinese d_halloween_nurse_35a863b3:
 
     # dh "Nice. You two are too cute."
-    dh "美好的你们两个太可爱了。"
-    dh "好的。你们两个太可爱了。"
+    dh "真棒。你们两个太可爱了。"
 
 # game/script.rpy:704
 translate chinese d_halloween_nurse_cfd1e2b8:
 
     # nr "Debbie!"
     nr "黛比！"
-    nr "黛比！"
 
 # game/script.rpy:705
 translate chinese d_halloween_nurse_85aa8255:
 
     # dh "Take it back to the dorms girls. It's nearly time for curfew."
-    dh "把它带回宿舍，女孩们。快到宵禁时间了。"
     dh "把它带回宿舍的女孩们那里。快到宵禁时间了。"
 
 # game/script.rpy:706
@@ -1484,27 +1463,23 @@ translate chinese d_halloween_nurse_2be15ffc:
 
     # nr "Sorry, we'll leave."
     nr "抱歉，我们要走了。"
-    nr "对不起，我们要走了。"
 
 # game/script.rpy:754
 translate chinese d_halloween_priti_d4661de4:
 
     # mt "It's the foxy little nerds, Rachel, Lucy and Priti."
-    mt "是狡猾的小书呆子，瑞秋，露西和普里蒂。"
-    mt "是狡猾的小书呆子，瑞秋，露西和普里蒂。"
+    mt "是狡猾的呆妹三人组，瑞秋，露西和普里蒂。"
 
 # game/script.rpy:755
 translate chinese d_halloween_priti_5bf2d155:
 
     # mt "Should I go speak with them?"
     mt "我应该去和他们谈谈吗？"
-    mt "我应该去和他们谈谈吗？"
 
 # game/script.rpy:757
 translate chinese d_halloween_priti_0dab454b:
 
     # mt "I see that Rachel and Lucy still haven't managed to get Priti down from the table."
-    mt "我看到瑞秋和露西还没能把普里蒂从桌子上弄下来。"
     mt "我看到瑞秋和露西还是没能把普里蒂从桌子上弄下来。"
 
 # game/script.rpy:758
@@ -1512,97 +1487,83 @@ translate chinese d_halloween_priti_5bf2d155_1:
 
     # mt "Should I go speak with them?"
     mt "我应该去和他们谈谈吗？"
-    mt "我应该去和他们谈谈吗？"
 
 # game/script.rpy:766
 translate chinese d_halloween_priti_f83e6646:
 
     # dh "I want to see who else is around first. I'll come back here later."
     dh "我想先看看还有谁在附近。我晚点再来这里。"
-    dh "我想先看看还有谁在附近。我过会儿再来。"
 
 # game/script.rpy:788
 translate chinese d_halloween_priti2_e0c51a14:
 
     # rs "Please Priti, come down off the table."
-    rs "请普里蒂，从桌子上下来。"
-    rs "请普里蒂，从桌子上下来。"
+    rs "拜托了，普里蒂，从桌子上下来。"
 
 # game/script.rpy:789
 translate chinese d_halloween_priti2_639ee2b5:
 
     # pa "No! I don't wanna!"
-    pa "不是的！我不想！"
-    pa "不我不想！"
+    pa "不！我不要！"
 
 # game/script.rpy:790
 translate chinese d_halloween_priti2_6e18de8a:
 
     # lf "Please Priti, it's getting late, we have to go home."
-    lf "求你了，普里蒂，时间不早了，我们得回家了。"
-    lf "拜托，普里蒂，时间不早了，我们得回家了。"
+    lf "求你了，普里蒂，时间不早了，我们得回宿舍了。"
 
 # game/script.rpy:791
 translate chinese d_halloween_priti2_da1ee506:
 
     # pa "No! I wanna dance more!"
-    pa "不是的！我想跳更多的舞！"
-    pa "不我想多跳舞！"
+    pa "不！我想跳更多的舞！"
 
 # game/script.rpy:792
 translate chinese d_halloween_priti2_dfe66490:
 
     # dh "What's going on here girls?"
     dh "姑娘们，这是怎么回事？"
-    dh "姑娘们，这是怎么回事？"
 
 # game/script.rpy:795
 translate chinese d_halloween_priti2_d9b49987:
 
     # rs "Oh no, it's a Prefect. We're in so much trouble."
-    rs "哦，不，是省长。我们有大麻烦了。"
-    rs "哦，不，是个级长。我们有这么多麻烦。"
+    rs "哦，不，是级长。我们有麻烦了。"
 
 # game/script.rpy:796
 translate chinese d_halloween_priti2_555a8dc0:
 
     # dh "Listen you three, it's nearly curfew and you have to head back to the dorms."
     dh "听着，你们三个，快宵禁了，你们得回宿舍了。"
-    dh "听你们三个，快宵禁了，你们得回宿舍去。"
 
 # game/script.rpy:797
 translate chinese d_halloween_priti2_516bb02d:
 
     # rs "Sorry Debbie, we can't."
-    rs "抱歉，黛比，我们不能。"
-    rs "对不起，黛比，我们不能。"
+    rs "对不起，黛比，我们不能回去。"
 
 # game/script.rpy:798
 translate chinese d_halloween_priti2_3d86646d:
 
     # dh "You have to. "
-    dh "你不得不。"
-    dh "你必须这么做。"
+    dh "你们必须得回去。"
 
 # game/script.rpy:799
 translate chinese d_halloween_priti2_f7fd6735:
 
     # lf "Yeah but..."
-    lf "是啊，但是..。"
-    lf "是的，但是。。。"
+    lf "是，但是。。。"
 
 # game/script.rpy:800
 translate chinese d_halloween_priti2_8a6422b3:
 
     # dh "As a Prefect I'm ordering you to go back."
-    dh "作为州长，我命令你回去。"
-    dh "作为一名级长，我命令你回去。"
+    dh "作为一名级长，我命令你们回去。"
 
 # game/script.rpy:801
 translate chinese d_halloween_priti2_231c5f7a:
 
     # dh "Otherwise, I'll have to give you all spankings."
-    dh "否则，我就得狠狠揍你一顿。"
     dh "否则，我就得打你们所有人的屁股。"
 
 # game/script.rpy:802
@@ -1610,13 +1571,11 @@ translate chinese d_halloween_priti2_f8a54494:
 
     # rs "Please don't spank us, Debbie."
     rs "请不要打我们的屁股，黛比。"
-    rs "黛比，请不要打我们屁股。"
 
 # game/script.rpy:803
 translate chinese d_halloween_priti2_3d1a14a0:
 
     # lf "Yeah, please don't spank us. We want to leave but we can't right now."
-    lf "是的，请不要打我们屁股。我们想离开，但现在不行。"
     lf "是啊，请不要打我们的屁股。我们想离开，但现在不行。"
 
 # game/script.rpy:804
@@ -1624,20 +1583,17 @@ translate chinese d_halloween_priti2_434e6901:
 
     # dh "Why?"
     dh "为什么？"
-    dh "为什么？"
 
 # game/script.rpy:807
 translate chinese d_halloween_priti2_1e0add42:
 
     # pa "Woooooo!! Look at me!"
-    pa "呜呜！！看看我！"
-    pa "哇哦！！看着我！"
+    pa "呜呜！！看着我！"
 
 # game/script.rpy:808
 translate chinese d_halloween_priti2_f0414d87:
 
     # pa "I'm a pretty pixie!"
-    pa "我是个漂亮的小精灵！"
     pa "我是个漂亮的小精灵！"
 
 # game/script.rpy:809
@@ -1645,314 +1601,269 @@ translate chinese d_halloween_priti2_228145e2:
 
     # pa "Come on everyone get up here and dance with me!"
     pa "来吧，大家都上来和我跳舞吧！"
-    pa "来吧，大家都上来和我跳舞！"
 
 # game/script.rpy:810
 translate chinese d_halloween_priti2_5bd9d868:
 
     # dh "What the hell is wrong with Priti?"
-    dh "见鬼的普里蒂怎么了？"
-    dh "普里蒂到底怎么了？"
+    dh "见鬼的普里蒂到底怎么了？"
 
 # game/script.rpy:813
 translate chinese d_halloween_priti2_2316be05:
 
     # lf "Um... Well, you see, I was cleaning the Headmaster's house earlier."
-    lf "嗯..。嗯，你看，我刚才在打扫校长的房子。"
     lf "嗯。。。你看，我刚才在打扫校长的房子。"
 
 # game/script.rpy:814
 translate chinese d_halloween_priti2_cac789f2:
 
     # lf "He had loads of bottles of alcohol for a party with the staff."
-    lf "他带了很多酒瓶，准备和工作人员一起参加聚会。"
-    lf "他带了很多瓶酒去参加员工聚会。"
+    lf "他准备了很多瓶酒，去参加员工聚会。"
 
 # game/script.rpy:815
 translate chinese d_halloween_priti2_f29e61d3:
 
     # lf "I didn't think he'd miss one bottle so I took it."
-    lf "我以为他一瓶都不会错过，所以我就买下了。"
     lf "我没想到他会漏掉一瓶，所以我把它拿走了。"
 
 # game/script.rpy:818
 translate chinese d_halloween_priti2_9e2e9ba3:
 
     # dh "You stole alcohol from the headmaster and you've been drinking in the classroom?!"
-    dh "你偷了校长的酒还一直在教室里喝酒？！"
     dh "你偷了校长的酒，还在教室里喝酒？！"
 
 # game/script.rpy:819
 translate chinese d_halloween_priti2_9773ba29:
 
     # lf "Yes."
-    lf "是。"
     lf "对"
 
 # game/script.rpy:820
 translate chinese d_halloween_priti2_405bcba5:
 
     # dh "You naughty girls!"
-    dh "你们这些淘气的女孩！"
-    dh "你们这些淘气的女孩！"
+    dh "你们这些女孩真是太淘气了！"
 
 # game/script.rpy:821
 translate chinese d_halloween_priti2_f819d2e3:
 
     # dh "It's always the quiet ones who are the most trouble."
-    dh "安静的人总是最麻烦的。"
-    dh "安静的人总是最麻烦的。"
+    dh "总是不吭声的人往往是最麻烦的。"
 
 # game/script.rpy:822
 translate chinese d_halloween_priti2_dfc8195d:
 
     # dh "Did Priti drink the whole bottle or something?"
     dh "普里蒂是喝了整瓶酒还是怎么的？"
-    dh "普里蒂喝了整瓶酒还是别的什么？"
 
 # game/script.rpy:824
 translate chinese d_halloween_priti2_8f01aa1f:
 
     # lf "We all drank the same amount but Priti couldn't handle it."
-    lf "我们都喝了同样的量，但普里蒂受不了。"
-    lf "我们都喝了同样的量，但普里蒂受不了。"
+    lf "我们喝的一样多，但普里蒂好像受不了。"
 
 # game/script.rpy:825
 translate chinese d_halloween_priti2_f13710c8:
 
     # lf "She's out of control."
     lf "她已经失控了。"
-    lf "她失控了。"
 
 # game/script.rpy:827
 translate chinese d_halloween_priti2_a702dc46:
 
     # pa "Oh look, it's the headmaster. *Hick*"
-    pa "哦，看，是校长。**希克**"
-    pa "哦，看，是校长*乡巴佬*"
+    pa "哦，看，是校长。*嗝*"
 
 # game/script.rpy:828
 translate chinese d_halloween_priti2_2ed09ff8:
 
     # pa "Show us your dick, headmaster! We want to see your big willy!"
-    pa "给我们看看你的小弟，校长！我们想看看你的大威利！"
-    pa "让我们看看你的老二，校长！我们想见你的大威利！"
+    pa "给我们看看你的小弟弟，校长！我们想看看你的大兄弟！"
 
 # game/script.rpy:829
 translate chinese d_halloween_priti2_17d39c39:
 
     # dh "I'd gladly show you if I had one, Priti."
-    dh "如果我有，我很乐意给你看，普里蒂。"
     dh "如果我有的话，我会很乐意给你看的，普里蒂。"
 
 # game/script.rpy:830
 translate chinese d_halloween_priti2_c1b628c5:
 
     # pa "Go on headmaster! I'll show you mine if you show me yours."
-    pa "走吧，校长！如果你给我看你的，我就给你看我的。"
-    pa "去吧，校长！如果你给我看你的，我就给你看我的。"
+    pa "来吧，校长！如果你给我看你的，我就给你看我的。"
 
 # game/script.rpy:832
 translate chinese d_halloween_priti2_2f86a7f6:
 
     # pa "Look!"
-    pa "看!"
     pa "看"
 
 # game/script.rpy:833
 translate chinese d_halloween_priti2_b6995304:
 
     # pa "I have a beautiful vagina and I'm very proud of it!"
-    pa "我有一个美丽的阴道，我很自豪！"
-    pa "我有一个美丽的阴道，我为此感到非常自豪！"
+    pa "我有一个美丽的阴唇，我为此感到非常自豪！"
 
 # game/script.rpy:834
 translate chinese d_halloween_priti2_4cd8a32b:
 
     # pa "*Hick*"
-    pa "**希克**"
-    pa "*乡巴佬*"
+    pa "*嗝*"
 
 # game/script.rpy:835
 translate chinese d_halloween_priti2_ccbb7a89:
 
     # dh "Good lord."
     dh "天哪。"
-    dh "上帝啊。"
 
 # game/script.rpy:837
 translate chinese d_halloween_priti2_9e0faadd:
 
     # dh "How much did she drink?"
     dh "她喝了多少？"
-    dh "她喝了多少？"
 
 # game/script.rpy:838
 translate chinese d_halloween_priti2_57213e90:
 
     # lf "Only two shots."
-    lf "只有两枪。"
-    lf "只有两枪。"
+    lf "只有两杯。"
 
 # game/script.rpy:839
 translate chinese d_halloween_priti2_30a3c386:
 
     # dh "Jesus, what a fucking lightweight."
-    dh "天啊，真他妈的笨蛋。"
-    dh "天哪，真他妈的轻。"
+    dh "天哪，真他妈的少。"
 
 # game/script.rpy:840
 translate chinese d_halloween_priti2_e8f1cb11:
 
     # lf "What are we going to do? Maria will come looking for us soon. We're going to be in so much trouble."
-    lf "我们该怎么办？玛丽亚很快就会来找我们的。我们会有很多麻烦的。"
-    lf "我们该怎么办呢？玛丽亚很快就会来找我们。我们会有大麻烦的。"
+    lf "我们该怎么办？玛丽亚很快就会来找我们。我们会有大麻烦的。"
 
 # game/script.rpy:841
 translate chinese d_halloween_priti2_d77f90ca:
 
     # lf "Will you help us, Debbie?"
     lf "你会帮我们吗，黛比？"
-    lf "黛比，你能帮我们吗？"
 
 # game/script.rpy:842
 translate chinese d_halloween_priti2_85b2d86a:
 
     # dh "I'll have to, you all need to be back at the dorms by midnight or I'll get a spanking myself."
-    dh "我必须这么做，你们都得在午夜前回到宿舍，否则我会被打屁股的。"
-    dh "我必须，你们必须在午夜前回到宿舍，否则我自己会挨屁股的。"
+    dh "我必须帮你们，你们必须在午夜前回到宿舍，否则我自己会挨屁股的。"
 
 # game/script.rpy:843
 translate chinese d_halloween_priti2_c50077aa:
 
     # dh "Priti, get down from there."
     dh "普里蒂，从那里下来。"
-    dh "普里蒂，从那里下来。"
 
 # game/script.rpy:844
 translate chinese d_halloween_priti2_c9e651b9:
 
     # pa "Nnnnn.... No! I don't wanna!"
-    pa "nnnnn..。不是的！我不想！"
     pa "nnnn。。。。不我不想！"
 
 # game/script.rpy:845
 translate chinese d_halloween_priti2_31c2a35c:
 
     # dh "Priti, get down from that table right now."
-    dh "普里蒂，马上从桌子上下来。"
     dh "普里蒂，马上从那张桌子上下来。"
 
 # game/script.rpy:847
 translate chinese d_halloween_priti2_9653556e:
 
     # pa "No! Kiss my big round booty!"
-    pa "不是的！亲吻我又大又圆的战利品！"
-    pa "不吻我的大圆战利品！"
+    pa "不！来亲我的大奶子嘛！"
 
 # game/script.rpy:848
 translate chinese d_halloween_priti2_dc6088c5:
 
     # dh "Seriously Priti, come down."
     dh "说真的，普里蒂，下来吧。"
-    dh "说真的，普里蒂，下来。"
 
 # game/script.rpy:849
 translate chinese d_halloween_priti2_dfd762fe:
 
     # dh "Priti, you're being very naughty, come down from there right now or I'll have to punish you."
-    dh "普里蒂，你太淘气了，马上下来，否则我就惩罚你。"
-    dh "普里蒂，你太淘气了，马上下来，否则我就得惩罚你。"
+    dh "普里蒂，你太淘气了，马上下来，否则我就得惩罚你了。"
 
 # game/script.rpy:850
 translate chinese d_halloween_priti2_a5626511:
 
     # pa "Oh yes! Punish me, headmaster! I'm a baaaaaaad girl!"
-    pa "哦，是的!惩罚我，校长！我是个芭芭拉女孩！"
-    pa "哦，是的！惩罚我，校长！我是巴亚德女孩！"
+    pa "哦，是的！惩罚我，校长！我是坏坏坏坏坏女孩！"
 
 # game/script.rpy:851
 translate chinese d_halloween_priti2_c7c2db0e:
 
     # pa "I'm the ba..baddest...est girl in the whole school!"
     pa "我是全校最坏…最坏……最坏的女孩！"
-    pa "我是全校最坏的女孩！"
 
 # game/script.rpy:852
 translate chinese d_halloween_priti2_ca71091d:
 
     # pa "Slap me on the bum-bum and touch me in my special place!"
-    pa "拍我的屁股，在我特别的地方摸我！"
-    pa "拍我屁股，在我特别的地方碰我！"
+    pa "打我的屁股，抚摸我的私处！"
 
 # game/script.rpy:853
 translate chinese d_halloween_priti2_29129157:
 
     # dh "OK, but you have to come down here."
-    dh "好的，但你得下来一趟。"
-    dh "好的，但是你必须下来这里。"
+    dh "好的，但是你必须得下来这里。"
 
 # game/script.rpy:854
 translate chinese d_halloween_priti2_ab95aa4d:
 
     # pa "No! You have to come up here!"
-    pa "不你得上来！"
-    pa "不是的！你得上来这里！"
+    pa "不。你上来！"
 
 # game/script.rpy:857
 translate chinese d_halloween_priti2_bab4d76e:
 
     # pa "Weeee, look at my tatas!"
-    pa "薇薇，看看我的纹身！"
-    pa "威伊，看看我的塔塔！"
+    pa "唏噫，看看我身上画的花纹！"
 
 # game/script.rpy:858
 translate chinese d_halloween_priti2_96f02850:
 
     # lf "It won't work, Debbie, we've been trying to talk her down for a while."
     lf "没用的，黛比，我们已经试着说服她好一阵子了。"
-    lf "没用的，黛比，我们已经试着说服她一段时间了。"
 
 # game/script.rpy:859
 translate chinese d_halloween_priti2_f1728468:
 
     # dh "Maybe we could try wrestling her down."
-    dh "也许我们可以试着把她摔倒。"
-    dh "也许我们可以试着把她打倒。"
+    dh "也许我们可以试着把她拌倒。"
 
 # game/script.rpy:860
 translate chinese d_halloween_priti2_968ae2a5:
 
     # lf "I don't know, then she might fall and hit her head."
-    lf "我不知道，那她可能会摔倒撞到头。"
-    lf "我不知道，那么她可能会摔倒，撞到她的头。"
+    lf "我不知道行不行，她可能会摔倒撞到头。"
 
 # game/script.rpy:861
 translate chinese d_halloween_priti2_45a08cc8:
 
     # dh "Yeah, good point. That would be really bad."
-    dh "是的，很有道理。那太糟糕了。"
-    dh "是啊，说得好。那就真的很糟糕了。"
+    dh "是的，有道理。那太糟糕了。"
 
 # game/script.rpy:862
 translate chinese d_halloween_priti2_1036d607:
 
     # dh "Maybe we could tempt her down with something?"
     dh "也许我们可以用点什么引诱她下来？"
-    dh "也许我们可以用一些东西引诱她下来？"
 
 # game/script.rpy:863
 translate chinese d_halloween_priti2_b39dfab5:
 
     # dh "Where's the alcohol bottle?"
     dh "酒瓶在哪里？"
-    dh "酒瓶在哪里？"
 
 # game/script.rpy:864
 translate chinese d_halloween_priti2_86ed8583:
 
     # lf "It's here."
-    lf "就在这里。"
     lf "在这儿。"
 
 # game/script.rpy:866
@@ -1960,230 +1871,197 @@ translate chinese d_halloween_priti2_04fd623d:
 
     # dh "It's completely empty!"
     dh "完全是空的！"
-    dh "它完全是空的！"
 
 # game/script.rpy:867
 translate chinese d_halloween_priti2_5a35cff1:
 
     # lf "Priti spilt most of it, there's nothing left."
-    lf "普里蒂洒了大部分，什么都没留下。"
-    lf "普里蒂把大部分都洒了，什么都没留下。"
+    lf "普里蒂把大部分都弄洒了，什么都没留下。"
 
 # game/script.rpy:868
 translate chinese d_halloween_priti2_def8e3b8:
 
     # dh "Hmmm..."
     dh "嗯..。"
-    dh "六羟甲基三聚氰胺六甲醚。。。"
 
 # game/script.rpy:870
 translate chinese d_halloween_priti2_4b252fd8:
 
     # mt "What should I do now?"
-    mt "我现在该怎么办呢？"
-    mt "我现在该怎么办？"
+    mt "现在该怎么办呢？"
 
 # game/script.rpy:875
 translate chinese d_halloween_priti2_089c6996:
 
     # dh "Priti, I must insist you come down now."
-    dh "普里蒂，我必须坚持你现在就下来。"
-    dh "普里蒂，我一定要你现在下来。"
+    dh "普里蒂，我坚持你必须现在就下来。"
 
 # game/script.rpy:876
 translate chinese d_halloween_priti2_4dce8a8b:
 
     # pa "No! I'm doing a sexy dance! You can't stop me!"
-    pa "不是的！我在跳一支性感的舞！你阻止不了我！"
-    pa "不我在跳性感的舞蹈！你阻止不了我！"
+    pa "不！我在跳一支性感的舞蹈！你阻止不了我！"
 
 # game/script.rpy:877
 translate chinese d_halloween_priti2_a5141924:
 
     # dh "Please Priti!"
     dh "拜托，普里蒂！"
-    dh "请普里蒂！"
 
 # game/script.rpy:878
 translate chinese d_halloween_priti2_372f8dc4:
 
     # pa "Nnnnnnnn... No!"
-    pa "nnnnnnn..。不是的！"
-    pa "Nnnnnnnn。。。不"
+    pa "Nnnnnnnn。。。不！"
 
 # game/script.rpy:879
 translate chinese d_halloween_priti2_6cf68575:
 
     # n "You attempted to talk Priti down but quickly realized it was futile."
     n "你试图说服普里蒂，但很快就意识到这是徒劳的。"
-    n "你试图说服普里蒂，但很快意识到这是徒劳的。"
 
 # game/script.rpy:880
 translate chinese d_halloween_priti2_0f2bf864:
 
     # dh "Damn it, I'm wasting my time! I need to figure out a solution."
     dh "该死，我在浪费时间！我需要想出一个解决办法。"
-    dh "该死的，我在浪费时间！我需要想出一个解决方案。"
 
 # game/script.rpy:885
 translate chinese d_halloween_priti2_ffeab853:
 
     # dh "I'm not going to try arguing with a drunk girl."
-    dh "我不会试着和一个喝醉了的女孩争论。"
-    dh "我不想和一个喝醉的女孩吵架。"
+    dh "我不该试着和一个喝醉了的女孩争论。"
 
 # game/script.rpy:886
 translate chinese d_halloween_priti2_7461771e:
 
     # dh "I'll come back here later once I've figured out a way to tempt her down."
-    dh "一旦我想出办法引诱她下来，我稍后再来。"
     dh "等我想出办法引诱她下来，我会回来的。"
 
 # game/script.rpy:887
 translate chinese d_halloween_priti2_5f65fc89:
 
     # lf "Hurry back, Debbie."
-    lf "快回来，黛比。"
-    lf "快点回来，黛比。"
+    lf "快点，黛比。"
 
 # game/script.rpy:894
 translate chinese d_halloween_h_class2_9b118dc0:
 
     # dh "Has she sobered up at all yet?"
     dh "她完全清醒了吗？"
-    dh "她清醒了吗？"
 
 # game/script.rpy:895
 translate chinese d_halloween_h_class2_feeb4b48:
 
     # lf "No. She's still really drunk. Please help, Debbie."
-    lf "不是的。她还是喝得酩酊大醉。请帮帮忙，黛比。"
-    lf "不，她还真的喝醉了。请帮忙，黛比。"
+    lf "不是的。她还是酩酊大醉。帮帮忙，黛比。"
 
 # game/script.rpy:896
 translate chinese d_halloween_h_class2_540e5436:
 
     # dh "Alright, I'll come back once I've figured something out."
-    dh "好吧，我想好了再回来。"
-    dh "好的，我一想明白就回来。"
+    dh "好吧，等我搞明白了再回来。"
 
 # game/script.rpy:897
 translate chinese d_halloween_h_class2_f08bfd4c:
 
     # mt "This is a bad situation. I think I might need to ask a staff member for help."
-    mt "这是一个糟糕的情况。我想我可能需要向工作人员寻求帮助。"
     mt "这是一个很糟糕的情况。我想我可能需要向工作人员寻求帮助。"
 
 # game/script.rpy:898
 translate chinese d_halloween_h_class2_cd637e06:
 
     # mt "I can't go to the headmaster though, he can't know I couldn't maintain discipline on my own."
-    mt "不过我不能去找校长，他不能知道我一个人守不住纪律。"
-    mt "但我不能去见校长，他不知道我不能独自维持纪律。"
+    mt "不过我不能去找校长，他不能知道我一个人不能独自维持纪律。"
 
 # game/script.rpy:899
 translate chinese d_halloween_h_class2_3a139e37:
 
     # mt "I'll need to ask someone else. Who would know how to sober someone up quickly?"
-    mt "我需要问问其他人。谁会知道如何让人很快清醒过来？"
     mt "我需要问问其他人。谁会知道如何让人快速清醒起来呢？"
 
 # game/script.rpy:900
 translate chinese d_halloween_h_class2_6990e852:
 
     # mt "Someone good at science, maybe?"
-    mt "也许是一个擅长科学的人？"
     mt "也许是个擅长科学的人？"
 
 # game/script.rpy:906
 translate chinese d_halloween_h_class2_1853ed10:
 
     # dh "Hey Priti, look, I've got more alcohol."
-    dh "嘿，普里蒂，看，我还有更多的酒。"
-    dh "嘿，普里蒂，看，我还有酒。"
+    dh "嘿，普里蒂，看，我这还有更多的酒。"
 
 # game/script.rpy:907
 translate chinese d_halloween_h_class2_577693de:
 
     # pa "More alchymohol?"
-    pa "再来点酒精吗？"
-    pa "更多酒精？"
+    pa "还有更多的酒？"
 
 # game/script.rpy:908
 translate chinese d_halloween_h_class2_0da851fb:
 
     # dh "Yup, come down here and have some."
-    dh "是的，下来吃点。"
-    dh "是的，下来吃点吧。"
+    dh "是的，下来喝点吧。"
 
 # game/script.rpy:909
 translate chinese d_halloween_h_class2_3e56cfe8:
 
     # pa "No! Give it here."
-    pa "不是的！把它放在这里。"
-    pa "不给我。"
+    pa "不！把它放在这里。"
 
 # game/script.rpy:910
 translate chinese d_halloween_h_class2_0a56f53d:
 
     # dh "Fine. Here you go."
-    dh "很好。这就是你要的。"
-    dh "好的干得好。"
+    dh "好吧。这就是你要的。"
 
 # game/script.rpy:913
 translate chinese d_halloween_h_class2_370451ac:
 
     # pa "Yay, I like booze... Booze good."
-    pa "耶，我喜欢酒.酒很好。"
     pa "耶，我喜欢喝酒。。。好酒。"
 
 # game/script.rpy:915
 translate chinese d_halloween_h_class2_815a1ce0:
 
     # pa "*glug* *glug* *glug*"
-    pa "*粘糊糊的**粘糊糊的**粘糊糊的*"
-    pa "*Glug**Glug**Glug**"
+    pa "*咕咚* *咕咚* *咕咚*"
 
 # game/script.rpy:917
 translate chinese d_halloween_h_class2_06115d29:
 
     # pa "Yuck! This is gross! Way grosserer than last time..."
-    pa "恶心！这太恶心了！比上次更恶心。"
-    pa "讨厌！真恶心！比上次严重多了。。。"
+    pa "恶心！这太恶心了！比上次恶心多了。。。"
 
 # game/script.rpy:919
 translate chinese d_halloween_h_class2_7ec3b3e6:
 
     # pa "Oooooh... I feel funny."
     pa "哦哦..。我感觉怪怪的。"
-    pa "哦哦。。。我觉得好笑。"
 
 # game/script.rpy:920
 translate chinese d_halloween_h_class2_5655ec93:
 
     # pa "Um... Oh gosh, what am I doing on this table?"
     pa "嗯。。。哦，天哪，我在这张桌子上干什么？"
-    pa "嗯..。哦，天哪，我在这桌子上做什么？"
 
 # game/script.rpy:922
 translate chinese d_halloween_h_class2_91f8b5a0:
 
     # pa "Why are my tatas out?!"
-    pa "我的纹身怎么掉了？！"
-    pa "为什么我的塔塔不在？！"
+    pa "我画的花纹怎么掉了？！"
 
 # game/script.rpy:923
 translate chinese d_halloween_h_class2_cc70f698:
 
     # dh "Oh great, Miss Chang's formula worked."
-    dh "太好了，张小姐的公式奏效了。"
     dh "哦，太好了，张小姐的配方起作用了。"
 
 # game/script.rpy:925
 translate chinese d_halloween_h_class2_fa402ece:
 
     # pa "Why does my head hurt so much."
-    pa "为什么我的头这么疼。"
     pa "为什么我的头这么痛。"
 
 # game/script.rpy:926
@@ -2191,34 +2069,29 @@ translate chinese d_halloween_h_class2_20a7b647:
 
     # dh "Get down off the table Priti."
     dh "从桌子上下来，普里蒂。"
-    dh "从桌子上下来，普里蒂。"
 
 # game/script.rpy:927
 translate chinese d_halloween_h_class2_7e5f06c3:
 
     # pa "Right, yes, of course."
-    pa "对，是的，当然。"
-    pa "对,对,当然。"
+    pa "哦，是的，当然。"
 
 # game/script.rpy:929
 translate chinese d_halloween_h_class2_0e456e13:
 
     # dh "You three are very naughty for stealing alcohol and drinking in the school."
-    dh "你们三个很调皮，在学校偷酒喝酒。"
-    dh "你们三个在学校偷酒喝酒，真淘气。"
+    dh "你们三个很调皮，在学校偷偷喝酒。"
 
 # game/script.rpy:930
 translate chinese d_halloween_h_class2_d1c086ff:
 
     # lf "Were sorry, Debbie."
     lf "我们很抱歉，黛比。"
-    lf "我们很抱歉，黛比。"
 
 # game/script.rpy:931
 translate chinese d_halloween_h_class2_4a6f12cd:
 
     # pa "Oh goodness, I'm so embarrassed by my behaviour. I'm sorry, Debbie."
-    pa "哦，天哪，我的行为让我很尴尬。对不起，黛比。"
     pa "哦，天哪，我对我的行为感到很尴尬。我很抱歉，黛比。"
 
 # game/script.rpy:932
@@ -2226,41 +2099,35 @@ translate chinese d_halloween_h_class2_1abf4628:
 
     # lf "What are you going to do with us?"
     lf "你要拿我们怎么办？"
-    lf "你要拿我们怎么办？"
 
 # game/script.rpy:936
 translate chinese d_halloween_h_class2_2bc0ae30:
 
     # dh "I should punish you all right now but unfortunately, I don't have the time."
-    dh "我现在应该惩罚你，但不幸的是，我没有时间。"
-    dh "我现在应该惩罚你，但不幸的是，我没有时间。"
+    dh "我现在应该惩罚你们，但不幸的是，我没有时间。"
 
 # game/script.rpy:937
 translate chinese d_halloween_h_class2_7eb7a5fc:
 
     # dh "All of you head straight back to the dorms."
     dh "你们所有人都直接回宿舍去。"
-    dh "你们都直接回宿舍去。"
 
 # game/script.rpy:938
 translate chinese d_halloween_h_class2_2b906730:
 
     # lf "Thank you, Debbie."
     lf "谢谢你，黛比。"
-    lf "谢谢你，黛比。"
 
 # game/script.rpy:939
 translate chinese d_halloween_h_class2_aa5f6850:
 
     # pa "Yes, thank you. Sorry again."
-    pa "好的，谢谢。再次抱歉。"
-    pa "是的，谢谢。再次抱歉。"
+    pa "好的，谢谢。还是抱歉。"
 
 # game/script.rpy:940
 translate chinese d_halloween_h_class2_7abcc988:
 
     # dh "Just go quickly. Before I change my mind."
-    dh "快点走吧。在我改变主意之前。"
     dh "快去吧。在我改变主意之前。"
 
 # game/script.rpy:942
@@ -2268,83 +2135,71 @@ translate chinese d_halloween_h_class2_9d6cff6e:
 
     # mt "That's three girls found. I should keep on searching."
     mt "找到了三个女孩。我应该继续找下去。"
-    mt "找到了三个女孩。我应该继续寻找。"
 
 # game/script.rpy:950
 translate chinese d_halloween_h_class2_d626d216:
 
     # dh "I might be short on time but, as a Prefect, I can't overlook such seriously bad behaviour."
     dh "我可能时间不够，但作为一名级长，我不能忽视这种严重的不良行为。"
-    dh "我可能时间不多，但作为州长，我不能忽视这种严重的不良行为。"
 
 # game/script.rpy:951
 translate chinese d_halloween_h_class2_8e3bf010:
 
     # dh "I'm going to have to give you all a spanking."
-    dh "我得打你们一顿。"
     dh "我要打你们所有人的屁股。"
 
 # game/script.rpy:954
 translate chinese d_halloween_h_class2_df1fd5cc:
 
     # rs "Oh, but Debbie..."
-    rs "哦，但是黛比."
     rs "哦，但是黛比。。。"
 
 # game/script.rpy:955
 translate chinese d_halloween_h_class2_30ee75cf:
 
     # dh "Think yourself lucky I don't drag you lot straight to the headmaster's house and tell him about what just happened."
-    dh "我没有把你们直接拖到校长家告诉他刚才发生的事情，你觉得自己很幸运。"
-    dh "幸运的是我没有把你们直接拖到校长家告诉他刚才发生的事。"
+    dh "我没有把你们直接拖到校长家告诉他刚才发生的事情，你们应该觉得自己已经很幸运了。"
 
 # game/script.rpy:956
 translate chinese d_halloween_h_class2_93f00d17:
 
     # lf "Yes, Debbie."
     lf "是的，黛比。"
-    lf "是的，黛比。"
 
 # game/script.rpy:957
 translate chinese d_halloween_h_class2_ab84260f:
 
     # dh "Now, take your clothes off. I'm going to spank you all over my knee."
-    dh "现在，脱掉你的衣服。我要把你打得满膝都是。"
-    dh "现在，脱掉你的衣服。我要打你的膝盖。"
+    dh "现在，脱掉你们的衣服。我要把你们放在膝盖上打屁股。"
 
 # game/script.rpy:959
 translate chinese d_halloween_h_class2_8951e65a:
 
     # mt "Yes! Finally, I get to punish some girls. It's about damn time."
-    mt "是!终于，我可以惩罚一些女孩了。快到该死的时间了。"
-    mt "对最后，我要惩罚一些女孩。是时候了。"
+    mt "太棒了!终于，我可以惩罚几个女孩了。该死的快到时间了。"
 
 # game/script.rpy:960
 translate chinese d_halloween_h_class2_bfffb0e1:
 
     # dh "OK, Priti. You can be first you naughtly little drunkard."
-    dh "好的，普里蒂。你可以是第一个，你这个淘气的小酒鬼。"
-    dh "好的，普里蒂。你可以成为第一个你这个调皮的小酒鬼。"
+    dh "好的，普里蒂。你是第一个，你这个淘气的小酒鬼。"
 
 # game/script.rpy:964
 translate chinese d_halloween_h_class2_0988fbef:
 
     # pa "Ouch... Oh goodness, I'm never drinking again."
-    pa "哎哟天哪，我再也不喝酒了。"
-    pa "哎哟..。哦，天哪，我再也不喝酒了。"
+    pa "哎哟...哦，天哪，我再也不喝酒了。"
 
 # game/script.rpy:966
 translate chinese d_halloween_h_class2_f56eb775:
 
     # dh "Alright, let's have you next, cat girl."
-    dh "好吧，下一个是你，猫女。"
-    dh "好了，接下来轮到你了，猫咪女孩。"
+    dh "好了，接下来轮到你了，小猫咪。"
 
 # game/script.rpy:970
 translate chinese d_halloween_h_class2_8b3c8672:
 
     # rs "Ooooh... "
-    rs "哦哦..。"
     rs "哦哦。。。"
 
 # game/script.rpy:972
@@ -2352,153 +2207,131 @@ translate chinese d_halloween_h_class2_e4d96738:
 
     # dh "Alright, now it's time for the little red riding hood."
     dh "好了，现在是小红帽的时间了。"
-    dh "好了，现在是小红帽的时候了。"
 
 # game/script.rpy:976
 translate chinese d_halloween_h_class2_47b17a7b:
 
     # lf "Ow, Debbie, not so hard."
-    lf "现在，黛比，别那么用力。"
-    lf "黛比，没那么难。"
+    lf "噢！黛比，别那么用力。"
 
 # game/script.rpy:977
 translate chinese d_halloween_h_class2_7aafb533:
 
     # dh "You get extra spanks, Lucy, for stealing as well as drinking."
-    dh "露西，你偷东西和喝酒都会被打屁股。"
-    dh "露西，你除了喝酒还偷东西还会被打屁股。"
+    dh "露西，你除了喝酒还偷东西，要多打两下。"
 
 # game/script.rpy:979
 translate chinese d_halloween_h_class2_c209ec68:
 
     # n "You spanked each of the girls in turn."
     n "你轮流打了每个女孩的屁股。"
-    n "你依次打了每个女孩的屁股。"
 
 # game/script.rpy:980
 translate chinese d_halloween_h_class2_400c6d37:
 
     # n "You were sure to grope their bottoms and rub their privates, just like the headmaster would do."
-    n "你肯定会摸他们的屁股，摸他们的私处，就像校长会做的那样。"
-    n "你肯定会摸他们的屁股，摩擦他们的私处，就像校长会做的那样。"
+    n "你当然会偷偷摸她们的屁股，摩擦他们的小穴，就像校长会做的那样。"
 
 # game/script.rpy:981
 translate chinese d_halloween_h_class2_47284e78:
 
     # lf "Oooh."
-    lf "哦。"
-    lf "哦哦。"
+    lf "哦哦哦。"
 
 # game/script.rpy:984
 translate chinese d_halloween_h_class2_78c8af73:
 
     # dh "Alright, now you've been punished for drinking."
-    dh "好了，现在你因喝酒而受到惩罚。"
-    dh "好吧，现在你因酗酒而受到惩罚。"
+    dh "好了，现在你们因为喝酒而受到惩罚了。"
 
 # game/script.rpy:985
 translate chinese d_halloween_h_class2_32f7b6ac:
 
     # dh "Hopefully the headmaster won't want to punish you further when I tell him about this."
-    dh "希望当我告诉校长这件事时，他不会想要进一步惩罚你。"
-    dh "我告诉校长这件事的时候，希望校长不想再惩罚你了。"
+    dh "希望当我告诉校长这件事时，他不会想要进一步惩罚你们了。"
 
 # game/script.rpy:987
 translate chinese d_halloween_h_class2_1cfe6ce9:
 
     # lf "Oh no! Don't tell the headmaster, please."
     lf "哦，不！请不要告诉校长。"
-    lf "哦不！请不要告诉校长。"
 
 # game/script.rpy:988
 translate chinese d_halloween_h_class2_af36c2e7:
 
     # dh "Why shouldn't I? It's my job as Prefect."
-    dh "为什么我不能？这是我作为级长的工作。"
-    dh "为什么不行？这是我作为州长的工作。"
+    dh "为什么不？这是我作为级长的工作。"
 
 # game/script.rpy:989
 translate chinese d_halloween_h_class2_09238645:
 
     # lf "Please, Debbie, we'll do anything you want."
-    lf "拜托，黛比，你要我们做什么我们都会做。"
-    lf "拜托，黛比，我们会做你想做的任何事。"
+    lf "拜托，黛比，你要我们做什么我们都做。"
 
 # game/script.rpy:993
 translate chinese d_halloween_h_class2_935ad450:
 
     # dh "Sorry girls, I won't be bargained with, you all need to head home."
-    dh "抱歉，姑娘们，我不会跟你们讨价还价的，你们都得回家了。"
-    dh "对不起，姑娘们，我不会跟你们讨价还价的，你们都得回家了。"
+    dh "抱歉，姑娘们，我不会跟你们讨价还价的，你们都得回宿舍了。"
 
 # game/script.rpy:994
 translate chinese d_halloween_h_class2_c3ddcd41:
 
     # lf "OK."
-    lf "好的。"
-    lf "好啊"
+    lf "好吧。"
 
 # game/script.rpy:996
 translate chinese d_halloween_h_class2_9d6cff6e_1:
 
     # mt "That's three girls found. I should keep on searching."
     mt "找到了三个女孩。我应该继续找下去。"
-    mt "找到了三个女孩。我应该继续寻找。"
 
 # game/script.rpy:1005
 translate chinese d_halloween_h_class2_0ab768ed:
 
     # lf "Yeah, anything you want."
-    lf "好的，你想要什么都行。"
-    lf "是的，你要什么都行。"
+    lf "对，你要什么都行。"
 
 # game/script.rpy:1006
 translate chinese d_halloween_h_class2_53d75edb:
 
     # dh "Well, I do feel really horny after spanking you three. I guess I could stay quiet if you do me a favour."
-    dh "嗯，打了你们三个之后，我真的感觉很饥渴。如果你帮我个忙，我想我可以保持沉默。"
-    dh "嗯，打了你们三个屁股后，我真的觉得好色。如果你帮我一个忙，我想我可以保持安静。"
+    dh "嗯，打了你们三个屁股后，我真的感觉很饥渴。如果你们帮我解决一下，我想我可以在校长面前保持沉默。"
 
 # game/script.rpy:1007
 translate chinese d_halloween_h_class2_745acc61:
 
     # lf "Anything."
     lf "什么都行。"
-    lf "任何东西"
 
 # game/script.rpy:1008
 translate chinese d_halloween_h_class2_7a665916:
 
     # dh "I want you to lick my pussy."
-    dh "我要你舔我的阴部。"
-    dh "我要你给我的阴户上舌舔。"
+    dh "我要你们舔我的穴。"
 
 # game/script.rpy:1010
 translate chinese d_halloween_h_class2_be218194:
 
     # lf "Really?"
     lf "真的？"
-    lf "真正地"
 
 # game/script.rpy:1011
 translate chinese d_halloween_h_class2_ad471b1b:
 
     # dh "Yup."
-    dh "是啊。"
-    dh "是的。"
+    dh "没错。"
 
 # game/script.rpy:1013
 translate chinese d_halloween_h_class2_825eef1e:
 
     # lf "OK, fine. I guess we have to."
     lf "好吧，好吧。我想我们不得不这么做。"
-    lf "好的。我想我们必须这么做。"
 
 # game/script.rpy:1019
 translate chinese d_halloween_h_class2_66e3664d:
 
     # dh "OK girls, whenever you are ready."
-    dh "好的，姑娘们，只要你们准备好了。"
     dh "好的，姑娘们，只要你们准备好了。"
 
 # game/script.rpy:1020
@@ -2506,104 +2339,89 @@ translate chinese d_halloween_h_class2_5af66230:
 
     # lf "I knew it was a bad idea to steal that alcohol."
     lf "我就知道偷酒不是个好主意。"
-    lf "我知道偷酒是个坏主意。"
 
 # game/script.rpy:1023
 translate chinese d_halloween_h_class2_44b883cf:
 
     # rs "It's OK, Lucy, licking pussy isn't so bad. I actually quite enjoy it."
-    rs "没关系，露西，舔阴户也没那么糟。我其实挺喜欢的。"
-    rs "没关系，露西，舔猫咪没那么糟糕。我其实很喜欢。"
+    rs "没关系，露西，舔阴也没那么糟。我其实挺喜欢的。"
 
 # game/script.rpy:1024
 translate chinese d_halloween_h_class2_ac3f854c:
 
     # rs "I'll show you how it's done."
     rs "我给你示范一下是怎么做的。"
-    rs "我会告诉你怎么做的。"
 
 # game/script.rpy:1025
 translate chinese d_halloween_h_class2_51c9bbcf:
 
     # rs "Let's give Debbie a big orgasm. I think it's the least we can do for her helping us and not telling on us."
-    rs "让我们给黛比一个很大的性高潮。我想这是我们至少能为她帮助我们而不告发我们所能做的。"
-    rs "让我们给黛比一次高潮。我认为这是我们至少能为她帮助我们而不告发我们所做的。"
+    rs "让我们给黛比一个印象深刻的性高潮。我认为这是我们至少能为她所做的，看在她不告发我们的份上。"
 
 # game/script.rpy:1026
 translate chinese d_halloween_h_class2_2ec042cb:
 
     # lf "Yeah, I guess that's true."
-    lf "是啊，我想是这样的。"
-    lf "是的，我想那是真的。"
+    lf "是啊，希望如此吧。"
 
 # game/script.rpy:1029
 translate chinese d_halloween_h_class2_00bfbc70:
 
     # dh "Oh Yes, I love being a Prefect!"
-    dh "哦，是的，我喜欢当州长！"
-    dh "哦，是的，我喜欢当一名级长！"
+    dh "哦，太棒了，我喜欢当级长！"
 
 # game/script.rpy:1030
 translate chinese d_halloween_h_class2_fbe2b129:
 
     # n "Together Rachel, Lucy and Priti worked together to give you pleasure."
-    n "瑞秋、露西和普里蒂一起工作，给你带来快乐。"
-    n "瑞秋、露西和普里蒂一起工作给你带来快乐。"
+    n "瑞秋、露西和普里蒂一起，给你带来了了难以想象的快乐。"
 
 # game/script.rpy:1033
 translate chinese d_halloween_h_class2_73291195:
 
     # n "Their soft hands caressed every inch of your tight and toned young body."
-    n "他们柔软的手抚摸着你那紧绷而健美的年轻身体的每一寸。"
-    n "他们柔软的手抚摸着你紧绷健壮的年轻身体的每一寸地方。"
+    n "他们柔软的手抚摸着你那紧绷而健美的年轻身体的每一寸地方。"
 
 # game/script.rpy:1037
 translate chinese d_halloween_h_class2_e498e31e:
 
     # n "You and Rachel kissed passionately as Lucy's tongue gently lapped at your clit."
-    n "你和瑞秋热情地接吻，露西的舌头轻轻地舔着你的阴蒂。"
-    n "露西的舌头轻轻地舔着你的阴蒂，你和瑞秋热烈地吻了一下。"
+    n "露西的舌头轻轻地舔着你的阴蒂，你和瑞秋热情地接吻。"
 
 # game/script.rpy:1038
 translate chinese d_halloween_h_class2_1ffda167:
 
     # n "You lost track of how many times you came that night."
-    n "你忘了那天晚上来过多少次。"
-    n "你记不清那天晚上你来了多少次。"
+    n "你后来根本记不清那天晚上你来了多少次了。"
 
 # game/script.rpy:1042
 translate chinese d_halloween_h_class2_23258045:
 
     # n "Midnight came and went and you missed the headmaster’s deadline."
     n "午夜来了又走，你错过了校长的最后期限。"
-    n "午夜来了又去，你错过了校长的最后期限。"
 
 # game/script.rpy:1049
 translate chinese d_halloween_chang1_f3e879c2:
 
     # dh "It's Miss Chang. Should I go speak with her?"
     dh "我是张小姐。我应该去和她谈谈吗？"
-    dh "我是张小姐。我要去和她谈谈吗？"
 
 # game/script.rpy:1060
 translate chinese d_halloween_chang2_1e25094e:
 
     # dh "I don't have a reason to speak with Miss Chang again right now and I don't want to disturb her unless I have to."
     dh "我现在没有理由再和张小姐说话，除非迫不得已，否则我不想打扰她。"
-    dh "我现在没有理由再和张小姐说话，除非必须，否则我不想打扰她。"
 
 # game/script.rpy:1067
 translate chinese d_halloween_chang2_4fb8c9a5:
 
     # sc "Damn these cheap materials."
     sc "该死的这些廉价材料。"
-    sc "该死的这些廉价材料。"
 
 # game/script.rpy:1068
 translate chinese d_halloween_chang2_df331a89:
 
     # sc "How am I supposed to perfect cold fusion with scavenged electronics?"
-    sc "我怎么才能把冷聚变和被清除的电子设备完美结合呢？"
     sc "我该如何用废弃的电子设备来完善冷聚变？"
 
 # game/script.rpy:1069
@@ -2611,224 +2429,193 @@ translate chinese d_halloween_chang2_f42cddfa:
 
     # dh "Hey, Miss Chang."
     dh "嘿，张小姐。"
-    dh "嘿，张小姐。"
 
 # game/script.rpy:1071
 translate chinese d_halloween_chang2_bf7cc674:
 
     # sc "Hello, um... Student."
-    sc "你好，嗯..。学生。"
-    sc "你好，嗯。。。大学生"
+    sc "你好，嗯...孩子。"
 
 # game/script.rpy:1072
 translate chinese d_halloween_chang2_f57fbc6f:
 
     # dh "It's Debbie Harris, Miss."
     dh "我是黛比·哈里斯，小姐。"
-    dh "小姐，我是黛比·哈里斯。"
 
 # game/script.rpy:1073
 translate chinese d_halloween_chang2_abb70c5a:
 
     # dh "I love your mad scientist costume."
-    dh "我喜欢你的疯狂科学家服装。"
-    dh "我喜欢你的疯狂科学家服装。"
+    dh "我喜欢你的疯狂科学家打扮。"
 
 # game/script.rpy:1074
 translate chinese d_halloween_chang2_23516d92:
 
     # sc "Costume?"
-    sc "戏服？"
-    sc "服装"
+    sc "打扮？"
 
 # game/script.rpy:1075
 translate chinese d_halloween_chang2_e444e1a5:
 
     # dh "For Halloween, Miss."
-    dh "为万圣节准备的，小姐。"
-    dh "万圣节，小姐。"
+    dh "万圣节打扮，小姐。"
 
 # game/script.rpy:1076
 translate chinese d_halloween_chang2_7067c02e:
 
     # sc "Right, right."
-    sc "对，对。"
-    sc "对,对。"
+    sc "哦对，对。"
+
 
 # game/script.rpy:1077
 translate chinese d_halloween_chang2_2d34e80b:
 
     # sc "What are you doing here so late, Debbie? Shouldn't you be in the dorms?"
     sc "这么晚了你在这里干什么，黛比？你不是应该在宿舍吗？"
-    sc "黛比，这么晚了你在这里干什么？你不应该在宿舍吗？"
 
 # game/script.rpy:1079
 translate chinese d_halloween_chang2_b49ca731:
 
     # dh "Because it's Halloween we're allowed out until midnight."
     dh "因为今天是万圣节，我们可以出去到午夜。"
-    dh "因为今天是万圣节，我们可以出去到午夜。"
 
 # game/script.rpy:1080
 translate chinese d_halloween_chang2_910a5a5f:
 
     # dh "I'm rounding up the stragglers to get them to head home."
-    dh "我正在围捕掉队的人，让他们回家。"
-    dh "我正在把那些掉队的人赶回家。"
+    dh "我正在把那些偷偷溜走的人赶回宿舍。"
 
 # game/script.rpy:1081
 translate chinese d_halloween_chang2_898cdf25:
 
     # sc "I see. Well there are no students here, as you can see."
     sc "我明白了。嗯，正如你看到的，这里没有学生。"
-    sc "我懂了。正如你所看到的，这里没有学生。"
 
 # game/script.rpy:1082
 translate chinese d_halloween_chang2_e952ac80:
 
     # dh "How come you aren't at the staff party, Miss?"
-    dh "小姐，你怎么没参加员工聚会呢？"
-    dh "小姐，你怎么没参加员工聚会？"
+    dh "小姐，你怎么没去参加员工聚会呢？"
 
 # game/script.rpy:1084
 translate chinese d_halloween_chang2_82ecce0d:
 
     # sc "Firstly, I'm too old to be partying with those youngsters."
     sc "首先，我太老了，不能和那些年轻人一起狂欢。"
-    sc "首先，我太老了，不能和那些年轻人一起聚会。"
 
 # game/script.rpy:1085
 translate chinese d_halloween_chang2_6ad27c66:
 
     # sc "Secondly, I can't stand drunkenness and I've no doubt they'll all be drinking themselves stupid."
-    sc "其次，我不能忍受醉酒，我毫不怀疑他们都会喝得烂醉。"
-    sc "其次，我不能忍受酗酒，我毫不怀疑他们都会愚蠢地喝酒。"
+    sc "其次，我不能忍受酗酒，我毫不怀疑他们都会愚蠢地喝得烂醉。"
 
 # game/script.rpy:1086
 translate chinese d_halloween_chang2_bb839bf0:
 
     # sc "Thirdly, I'm not too popular with the other staff. Especially that big-tittied, bimbo sports teacher."
-    sc "第三，我在其他员工中不太受欢迎。尤其是那个大奶子，荡妇体育老师。"
-    sc "第三，我在其他员工中不太受欢迎。尤其是那个身材魁梧的体育老师。"
+    sc "第三，我在其他员工中不太受欢迎。尤其是那个身材魁梧的大奶子体育老师。"
 
 # game/script.rpy:1087
 translate chinese d_halloween_chang2_053a6521:
 
     # dh "Miss Newman? Why doesn't she like you?"
     dh "纽曼小姐？她为什么不喜欢你？"
-    dh "纽曼小姐？她为什么不喜欢你？"
 
 # game/script.rpy:1088
 translate chinese d_halloween_chang2_bbb44498:
 
     # sc "I believe she's jealous of my intellect."
-    sc "我相信她嫉妒我的才智。"
-    sc "我相信她嫉妒我的才智。"
+    sc "我相信是因为她嫉妒我的才智。"
 
 # game/script.rpy:1089
 translate chinese d_halloween_chang2_12f546d6:
 
     # sc "Plus there were those war crimes I was accused of."
     sc "还有我被指控的那些战争罪行。"
-    sc "另外还有我被指控的那些战争罪。"
 
 # game/script.rpy:1090
 translate chinese d_halloween_chang2_5ccad4a9:
 
     # dh "War crimes?"
-    dh "战争罪？"
-    dh "战争罪？"
+    dh "你犯了战争罪？"
 
 # game/script.rpy:1092
 translate chinese d_halloween_chang2_427a2e4b:
 
     # sc "Alleged war crimes."
-    sc "被指控犯有战争罪。"
-    sc "被指控的战争罪行。"
+    sc "是被指控犯有战争罪。"
 
 # game/script.rpy:1093
 translate chinese d_halloween_chang2_e1b6cc1c:
 
     # dh "Um... OK. So what are you doing here instead?"
-    dh "嗯..。好的。那你来这里做什么呢？"
-    dh "嗯。。。好啊那你在这里干什么？"
+    dh "嗯..。好吧。那你在这里做什么呢？"
 
 # game/script.rpy:1095
 translate chinese d_halloween_chang2_6017f961:
 
     # sc "Just a few experiments to keep my mind busy."
-    sc "只是几个让我头脑忙碌的实验。"
-    sc "只是一些让我头脑忙碌的实验。"
+    sc "只是几个让我稍微动动脑的实验。"
 
 # game/script.rpy:1096
 translate chinese d_halloween_chang2_c141a62f:
 
     # dh "What kind of experiments are you working on at the moment?"
-    dh "你目前正在做什么实验？"
-    dh "你目前正在做什么样的实验？"
+    dh "你正在做什么样的实验？"
 
 # game/script.rpy:1097
 translate chinese d_halloween_chang2_9f1f517c:
 
     # sc "Nothing you need to concern yourself with. Unless you have a pacemaker fitted, or are pregnant."
-    sc "你没什么需要担心的。除非你装了起搏器，或者怀孕了。"
     sc "没有什么你需要关心的。除非你安装了心脏起搏器，或者怀孕了。"
 
 # game/script.rpy:1099
 translate chinese d_halloween_chang2_1970a7b4:
 
     # sc "In which case you should be very concerned."
-    sc "在这种情况下，你应该非常担心。"
     sc "在这种情况下，你应该非常关心。"
 
 # game/script.rpy:1100
 translate chinese d_halloween_chang2_4acd7c8c:
 
     # dh "Errr..."
-    dh "呃."
     dh "呃。。。"
 
 # game/script.rpy:1102
 translate chinese d_halloween_chang2_b16f8f05:
 
     # sc "Was there anything I can help you with, student? Or may I get back to my work?"
-    sc "有什么我能帮你的吗，学生？或者我可以回去工作了吗？"
-    sc "学生，有什么我能帮你的吗？或者我可以回去工作吗？"
+    sc "有什么我能帮你的吗，孩子？或者我可以继续工作了吗？"
 
 # game/script.rpy:1105
 translate chinese d_halloween_chang2_230ddc48:
 
     # dh "No. I'll leave you to it, Miss."
-    dh "不是的。我就不打扰您了，小姐。"
-    dh "不，我让你去吧，小姐。"
+    dh "没了。我就不打扰您了，小姐。"
 
 # game/script.rpy:1114
 translate chinese d_halloween_chang3_8e11a72b:
 
     # sc "Hello again, um... Student."
-    sc "又见面了，嗯.学生。"
-    sc "你好，嗯。。。大学生"
+    sc "又见面了，嗯...孩子。"
 
 # game/script.rpy:1115
 translate chinese d_halloween_chang3_718b6916:
 
     # dh "Debbie Harris!"
     dh "黛比·哈里斯！"
-    dh "黛比·哈里斯！"
 
 # game/script.rpy:1116
 translate chinese d_halloween_chang3_9b9c85e5:
 
     # sc "Is there something you needed, Debbie?"
-    sc "你需要什么吗，黛比？"
-    sc "黛比，你需要什么吗？"
+    sc "你有什么需要吗，黛比？"
 
 # game/script.rpy:1118
 translate chinese d_halloween_chang4_6e4ea088:
 
     # dh "Do you know how to sober someone up quickly?"
-    dh "你知道怎么让人很快清醒过来吗？"
-    dh "你知道如何让人很快清醒过来吗？"
+    dh "你知道怎么让人快速清醒过来吗？"
 
 # game/script.rpy:1119
 translate chinese d_halloween_chang4_d69f60b4:
@@ -2841,42 +2628,36 @@ translate chinese d_halloween_chang4_d69f60b4:
 translate chinese d_halloween_chang4_154c8a46:
 
     # sc "I find drunk people intensely irritating so I would often spike the company punch bowl with an alcohol neutraliser."
-    sc "我发现喝醉的人非常令人恼火，所以我经常在公司的潘趣酒碗里放上酒精中和剂。"
-    sc "我发现醉酒的人非常恼火，所以我经常在公司的饮料碗里放酒精中和剂。"
+    sc "我发现喝醉的人非常令人恼火，所以我经常在公司的饮料碗里放酒精中和剂。"
 
 # game/script.rpy:1121
 translate chinese d_halloween_chang4_9507e81e:
 
     # dh "Do you have any of this magic potion you can give me?"
-    dh "你有这种神奇的药水可以给我吗？"
-    dh "你有这种魔药可以给我吗？"
+    dh "你现在有这种神奇的药水吗？可以给我吗？"
 
 # game/script.rpy:1123
 translate chinese d_halloween_chang4_1a353d95:
 
     # sc "It's not a magic potion! It's a scientific formula."
-    sc "这不是魔法药水！这是一个科学公式。"
-    sc "这不是魔药！这是一个科学公式。"
+    sc "这不是神奇药水！这是一个科学公式。"
 
 # game/script.rpy:1124
 translate chinese d_halloween_chang4_cdf14f1b:
 
     # dh "Sure, whatever. Do you have any?"
-    dh "当然，随便你。你有吗？"
-    dh "当然，不管怎样。有吗？"
+    dh "当然，无所谓。你有吗？"
 
 # game/script.rpy:1126
 translate chinese d_halloween_chang4_f252063a:
 
     # sc "No, but I can mix some for you. It'll only take about five minutes."
     sc "没有，不过我可以给你调一些。只需要五分钟左右。"
-    sc "没有，但我可以给你调一些。只需要大约五分钟。"
 
 # game/script.rpy:1127
 translate chinese d_halloween_chang4_da28bd20:
 
     # sc "Would you like some?"
-    sc "你也来点儿吗？"
     sc "你想要一些吗？"
 
 # game/script.rpy:1133
@@ -2884,26 +2665,23 @@ translate chinese d_halloween_chang4_9880490d:
 
     # sc "Ok, give me a moment."
     sc "好的，给我一点时间。"
-    sc "好的，给我一点时间。"
 
 # game/script.rpy:1135
 translate chinese d_halloween_chang4_e210b31f:
 
     # n "Five minutes later."
     n "五分钟后。"
-    n "五分钟后。"
 
 # game/script.rpy:1137
 translate chinese d_halloween_chang4_3749be56:
 
     # sc "Here you are, um... Student." with dissolve
-    sc "" with dissolve
+    sc "给你吧，嗯...孩子。" with dissolve
 
 # game/script.rpy:1138
 translate chinese d_halloween_chang4_fa860dcb:
 
     # dh "It's Debbie."
-    dh "我是黛比。"
     dh "我是黛比。"
 
 # game/script.rpy:1139
@@ -2911,63 +2689,54 @@ translate chinese d_halloween_chang4_77350a5a:
 
     # sc "Yes yes, now leave me, please. I must continue with my work."
     sc "是的，是的，现在请离开我。我必须继续我的工作。"
-    sc "是的，现在请离开我。我必须继续我的工作。"
 
 # game/script.rpy:1140
 translate chinese d_halloween_chang4_ef2f3ffa:
 
     # dh "OK, thanks very much Miss Chang."
     dh "好的，非常感谢张小姐。"
-    dh "好的，非常感谢张小姐。"
 
 # game/script.rpy:1141
 translate chinese d_halloween_chang4_e7369334:
 
     # mt "I can put this formula in the empty alcohol bottle and tempt Priti down with it."
-    mt "我可以把这个配方放在空酒瓶里用它引诱普里蒂。"
     mt "我可以把这个配方放在空酒瓶里，用它诱惑普里蒂。"
 
 # game/script.rpy:1146
 translate chinese d_halloween_chang4_8d656ccb:
 
     # dh "I'm in a real hurry, I'll keep looking for another way."
-    dh "我真的很赶时间，我会继续找别的路。"
-    dh "我真的很忙，我会继续寻找另一条路。"
+    dh "我真的很赶时间，我会继续找别的方法。"
 
 # game/script.rpy:1147
 translate chinese d_halloween_chang4_3297793d:
 
     # sc "No problem, let me know if you change your mind."
     sc "没问题，如果你改变主意了，请告诉我。"
-    sc "没问题，如果你改变主意，请告诉我。"
 
 # game/script.rpy:1156
 translate chinese d_halloween_cass_7a929d07:
 
     # mt "There's Cass and Alice over there. The new girl Ada is taking their picture."
     mt "卡斯和爱丽丝在那边。新来的女孩艾达正在给他们拍照。"
-    mt "那边有卡斯和爱丽丝。新来的女孩艾达正在给他们拍照。"
 
 # game/script.rpy:1157
 translate chinese d_halloween_cass_6afd09c7:
 
     # mt "Should I go talk to them?"
     mt "我应该去和他们谈谈吗？"
-    mt "我应该去和他们谈谈吗？"
 
 # game/script.rpy:1171
 translate chinese d_halloween_cass2_3d9f732c:
 
     # cr "Come on Ada, get it right."
-    cr "来吧，艾达，把它做好。"
-    cr "来吧，艾达，做对了。"
+    cr "你够了艾达，就不能好好做吗。"
 
 # game/script.rpy:1172
 translate chinese d_halloween_cass2_a6b822dd:
 
     # al "Yeah, come on Ada."
-    al "是的，来吧，艾达。"
-    al "是啊，来吧，艾达。"
+    al "没错，艾达。"
 
 # game/script.rpy:1173
 translate chinese d_halloween_cass2_98e5376a:
@@ -2981,62 +2750,53 @@ translate chinese d_halloween_cass2_95c8e5ad:
 
     # dh "Hey guys, how's it going?"
     dh "嘿，伙计们，怎么样了？"
-    dh "嘿，伙计们，最近怎么样？"
 
 # game/script.rpy:1176
 translate chinese d_halloween_cass2_50a89a8f:
 
     # cr "Not great. Unless you're here to help, Debbie. you need to stop distracting us."
-    cr "不太好。除非你是来帮忙的黛比。你不能再让我们分心了。"
-    cr "不太好。除非你是来帮忙的，黛比。你需要停止分散我们的注意力。"
+    cr "不太好。除非你是来帮忙的黛比。你不能继续再让我们分心了。"
 
 # game/script.rpy:1182
 translate chinese d_halloween_cass2_ad80f36e:
 
     # cr "Did you take it, Ada?"
-    cr "你拿走了吗，艾达？"
-    cr "你拿了吗，艾达？"
+    cr "你看到了吗，艾达？"
 
 # game/script.rpy:1183
 translate chinese d_halloween_cass2_265698e1:
 
     # ada "Yeah."
     ada "嗯。"
-    ada "是 啊"
 
 # game/script.rpy:1184
 translate chinese d_halloween_cass2_da3e0b2b:
 
     # cr "OK, let's have a look."
     cr "好的，我们来看看。"
-    cr "好的，我们来看看。"
 
 # game/script.rpy:1186
 translate chinese d_halloween_cass2_239fb080:
 
     # ada "This one looks great."
-    ada "这件看起来很棒。"
-    ada "这个看起来很棒。"
+    ada "这张看起来很棒。"
 
 # game/script.rpy:1187
 translate chinese d_halloween_cass2_0c131008:
 
     # cr "It's OK, I guess, but it could be better."
-    cr "我想还可以，但还可以更好。"
-    cr "我想没关系，但可能会更好。"
+    cr "我感觉还可以，但还可以更好。"
 
 # game/script.rpy:1188
 translate chinese d_halloween_cass2_844b8732:
 
     # al "Yeah, we look hot but not super hot. You can do better."
-    al "是啊，我们看起来很辣，但不是很辣。你可以做得更好。"
-    al "是的，我们看起来很热，但不是超级热。你可以做得更好。"
+    al "是啊，我们看起来很辣，但不是超级辣。你可以做得更好。"
 
 # game/script.rpy:1189
 translate chinese d_halloween_cass2_1eb88108:
 
     # ada "Oh, come on, how long do we have to keep doing this?"
-    ada "哦，得了吧，我们还要这样做多久？"
     ada "哦，得了吧，我们还要这样多久？"
 
 # game/script.rpy:1190
@@ -3044,13 +2804,11 @@ translate chinese d_halloween_cass2_06d5c7df:
 
     # cr "Until you get it right. Let's try another pose."
     cr "直到你做对为止。让我们试试另一个姿势。"
-    cr "直到你做对为止。让我们试试另一个姿势。"
 
 # game/script.rpy:1191
 translate chinese d_halloween_cass2_e7e957e9:
 
     # dh "Hey."
-    dh "嘿。"
     dh "嘿"
 
 # game/script.rpy:1193
@@ -3058,111 +2816,95 @@ translate chinese d_halloween_cass2_d7007efb:
 
     # cr "Oh, hey Debbie."
     cr "哦，嘿，黛比。"
-    cr "哦，嘿，黛比。"
 
 # game/script.rpy:1194
 translate chinese d_halloween_cass2_e8553d0c:
 
     # dh "What are you girls up to?"
-    dh "你们女孩子在忙什么呢？"
-    dh "你们这些女孩在干什么？"
+    dh "你们几个女孩在这干什么呢？"
 
 # game/script.rpy:1196
 translate chinese d_halloween_cass2_a1f9a4a0:
 
     # al "We're trying to get the perfect photo of us in our costumes."
-    al "我们想拍一张我们穿着戏服的完美照片。"
-    al "我们想拍一张我们穿着戏服的完美照片。"
+    al "我们想拍一张我们化妆后的完美照片。"
 
 # game/script.rpy:1198
 translate chinese d_halloween_cass2_942aa1fa:
 
     # cr "Ada hasn't managed to get the right shot yet."
-    cr "艾达还没拍到正确的照片。"
-    cr "艾达还没打对球。"
+    cr "艾达还没拍到最棒的那张。"
 
 # game/script.rpy:1199
 translate chinese d_halloween_cass2_3544c49e:
 
     # ada "All my photos have been great."
     ada "我所有的照片都很棒。"
-    ada "我所有的照片都很棒。"
 
 # game/script.rpy:1201
 translate chinese d_halloween_cass2_a2efdd2c:
 
     # cr "They aren't sexy enough."
-    cr "他们不够性感。"
-    cr "他们不够性感。"
+    cr "但是不够性感。"
 
 # game/script.rpy:1202
 translate chinese d_halloween_cass2_527ed656:
 
     # cr "We're the two finest girls in school and we have, like, super sexy vampire costumes on."
-    cr "我们是学校里最好的两个女孩，我们穿着超级性感的吸血鬼服装。"
-    cr "我们是学校里最棒的两个女孩而且我们穿着超性感的吸血鬼服装。"
+    cr "我们是学校里最棒的两个女孩，我们穿着超级性感的吸血鬼服装。"
 
 # game/script.rpy:1203
 translate chinese d_halloween_cass2_add80728:
 
     # cr "You should be able to get the hottest photo ever."
-    cr "你应该能拍到史上最火辣的照片。"
-    cr "你应该能拍到有史以来最热的照片。"
+    cr "你应该能拍到有史以来最火辣的照片。"
 
 # game/script.rpy:1204
 translate chinese d_halloween_cass2_cbc8fec9:
 
     # dh "Yeah, that makes perfect sense. You two are, like, well fit."
-    dh "是的，这很有道理。你们两个很健康。"
-    dh "是啊，这就说得通了。你们两个看起来很合适。"
+    dh "是的，这很有道理。你们两个的妆看起来真棒。"
 
 # game/script.rpy:1205
 translate chinese d_halloween_cass2_d54a0700:
 
     # dh "What's your problem, Ada?"
-    dh "你有什么问题，艾达？"
-    dh "你有什么问题，艾达？"
+    dh "你怎么了，艾达？"
 
 # game/script.rpy:1207
 translate chinese d_halloween_cass2_ff74ff1d:
 
     # ada "I'm doing my best, we've taken dozens of pictures. They just keep telling me they aren't good enough."
-    ada "我在尽我最大的努力，我们已经拍了几十张照片了。他们只是不停地告诉我他们还不够好。"
-    ada "我已经尽力了，我们拍了几十张照片。他们总是告诉我他们不够好。"
+    ada "我已经尽力了，我们拍了几十张照片。他们只是不停地告诉我拍的还不够好。"
 
 # game/script.rpy:1209
 translate chinese d_halloween_cass2_bdf221e9:
 
     # cr "We'll never break the internet with your mediocre photos, Ada."
-    cr "我们永远不会用你平庸的照片打破网络，艾达。"
-    cr "我们永远不会用你平庸的照片破坏互联网，Ada。"
+    cr "靠你这些平庸的照片我们永远不会在网上一炮而红的，艾达。"
 
 # game/script.rpy:1210
 translate chinese d_halloween_cass2_2ba09cd9:
 
     # al "Yeah, we'll never make Facegram's top ten Halloween hotties with these pictures."
-    al "是的，我们永远不会用这些照片让Facegram成为万圣节十大性感女郎。"
-    al "是啊，我们永远不会用这些照片登上脸谱网十大万圣节辣妹榜单。"
+    al "是啊，用这些照片我们永远不会登上脸书万圣节十大性感女郎榜。"
 
 # game/script.rpy:1211
 translate chinese d_halloween_cass2_8d1a5dfa:
 
     # cr "Let's try it again. Alice, you go on the left this time."
-    cr "让我们再试一次。爱丽丝，这次你走左边。"
-    cr "让我们再试一次。艾丽斯，这次你向左走。"
+    cr "让我们再试一次。艾丽斯，这次你在左边。"
 
 # game/script.rpy:1213
 translate chinese d_halloween_cass2_b051a3f8:
 
     # dh "Wait, I'm sorry but it's getting late and you girls have to head back to the dorms."
     dh "等等，对不起，时间不早了，你们得回宿舍了。"
-    dh "等等，对不起，时间不早了，你们得回宿舍去。"
 
 # game/script.rpy:1214
 translate chinese d_halloween_cass2_49784a1d:
 
     # cr "No."
-    cr "不是的。"
     cr "不"
 
 # game/script.rpy:1215
@@ -3170,55 +2912,47 @@ translate chinese d_halloween_cass2_25722f4e:
 
     # dh "It's nearly curfew and..."
     dh "现在都快宵禁了而且..。"
-    dh "快宵禁了。。。"
 
 # game/script.rpy:1216
 translate chinese d_halloween_cass2_3efe1850:
 
     # cr "Fuck off, Debbie."
     cr "滚开，黛比。"
-    cr "去他妈的，黛比。"
 
 # game/script.rpy:1217
 translate chinese d_halloween_cass2_2eed54ac:
 
     # dh "As a Prefect, I must insist that you head back."
-    dh "作为州长，我必须坚持让你回去。"
-    dh "作为一名级长，我必须坚持让你回去。"
+    dh "作为一名级长，我必须坚持让你们回去。"
 
 # game/script.rpy:1218
 translate chinese d_halloween_cass2_302e60eb:
 
     # cr "No one gives a shit if you're a Prefect. Not when the headmaster isn't around to back you up."
-    cr "如果你是省长没人会在乎你的狗屎。当校长不在身边支持你的时候就不会了。"
-    cr "如果你是个级长，没人在乎。当校长不在你身边支持你的时候。"
+    cr "没人在乎你是不是级长，狗屎。反正校长现在又不在你身边。"
 
 # game/script.rpy:1219
 translate chinese d_halloween_cass2_26e0f0eb:
 
     # dh "Come on Cass, please. There's a real chance I might get to finger Miss Newman tonight."
-    dh "快点，卡斯，拜托。今晚我很有可能指认纽曼小姐。"
-    dh "拜托，卡斯。今晚我很有可能找到纽曼小姐。"
+    dh "拜托，卡斯。今晚我很有可能能睡到纽曼小姐。"
 
 # game/script.rpy:1220
 translate chinese d_halloween_cass2_6d98ac0d:
 
     # dh "Only if you'll head back to the dorms before midnight."
-    dh "除非你在午夜前回宿舍。"
-    dh "除非你能在午夜前赶回宿舍。"
+    dh "除非你们在午夜前回宿舍。"
 
 # game/script.rpy:1222
 translate chinese d_halloween_cass2_cebad08e:
 
     # cr "What the hell are you talking about?"
-    cr "见鬼，你在说什么？"
-    cr "你到底在说什么？"
+    cr "见鬼，你到底在说什么？"
 
 # game/script.rpy:1223
 translate chinese d_halloween_cass2_b2d6395b:
 
     # dh "Please, Cass."
-    dh "拜托，卡西。"
     dh "求你了，卡斯。"
 
 # game/script.rpy:1224
@@ -3226,111 +2960,95 @@ translate chinese d_halloween_cass2_fb8c6f82:
 
     # cr "We ain't going anywhere until we have the sexiest Halloween picture ever."
     cr "在我们拍到有史以来最性感的万圣节照片之前我们哪儿也不去。"
-    cr "除非我们有史以来最性感的万圣节照片，否则我们哪儿也去不了。"
 
 # game/script.rpy:1225
 translate chinese d_halloween_cass2_afcde629:
 
     # ada "I'd like to head back to the dorms."
     ada "我想回宿舍去。"
-    ada "我想回宿舍去。"
 
 # game/script.rpy:1227
 translate chinese d_halloween_cass2_c9c7d821:
 
     # cr "Shut the fuck up, Ada, you stay where you are."
-    cr "他妈的闭嘴，艾达，你呆在原地别动。"
-    cr "闭嘴，艾达，你呆在原地。"
+    cr "他妈的闭嘴，艾达，你呆在这别动。"
 
 # game/script.rpy:1228
 translate chinese d_halloween_cass2_83c9a2a8:
 
     # ada "*sigh*"
     ada "*叹息*"
-    ada "**叹息**"
 
 # game/script.rpy:1239
 translate chinese d_halloween_cass_first_choice_b97e1c2b:
 
     # dh "If I help you get the perfect photo will you all head back to the dorms?"
     dh "如果我帮你拍一张完美的照片，你们会回宿舍吗？"
-    dh "如果我帮你们拍到完美的照片，你们都会回宿舍吗？"
 
 # game/script.rpy:1241
 translate chinese d_halloween_cass_first_choice_8de7f0af:
 
     # cr "Yeah, sure. Who cares about staying out unless it's to look cool and make other people jealous."
-    cr "好的，当然可以。除非是为了看起来很酷或者让别人嫉妒，否则谁会在乎不出门呢？"
-    cr "是的，当然。谁会在乎呆在外面，除非是为了看起来很酷，让别人嫉妒。"
+    cr "好的，当然可以。除非是为了看起来很酷或者让别人嫉妒，否则谁会在乎待不待在外面呢？"
 
 # game/script.rpy:1242
 translate chinese d_halloween_cass_first_choice_e475e413:
 
     # cr "But what do you know about taking photos?"
     cr "但是你知道怎么拍照吗？"
-    cr "但是你对拍照了解多少呢？"
 
 # game/script.rpy:1243
 translate chinese d_halloween_cass_first_choice_d46256b1:
 
     # dh "Not much, but I do know what looks hot."
-    dh "不是很多，但我知道什么看起来很辣。"
-    dh "不多，但我知道什么看起来很热。"
+    dh "我懂得不多，但我知道怎么看起来辣。"
 
 # game/script.rpy:1244
 translate chinese d_halloween_cass_first_choice_52807c37:
 
     # cr "Alright. It's worth a try."
     cr "好吧值得一试。"
-    cr "好的。值得一试。"
 
 # game/script.rpy:1246
 translate chinese d_halloween_cass_first_choice_de453421:
 
     # cr "Ada is clearly useless."
     cr "艾达显然毫无用处。"
-    cr "艾达显然毫无用处。"
 
 # game/script.rpy:1247
 translate chinese d_halloween_cass_first_choice_c5238672:
 
     # ada "Hey."
-    ada "嘿。"
-    ada "嘿"
+    ada "嘿！"
 
 # game/script.rpy:1249
 translate chinese d_halloween_cass_first_choice_a89867ca:
 
     # dh "Why don't you show me a pose and I'll see if I can suggest some changes."
-    dh "你为什么不给我摆个姿势，我看看能不能给你提些修改意见。"
-    dh "你为什么不给我摆个姿势，我看看能不能建议一些改变。"
+    dh "你们为什么不给我摆些姿势，我看看能不能给你提些意见。"
 
 # game/script.rpy:1252
 translate chinese d_halloween_cass_first_choice_0a581512:
 
     # cr "This is the best pose we've got so far."
-    cr "这是到目前为止我们拍到的最好的姿势。"
-    cr "这是目前为止我们做的最好的姿势。"
+    cr "这是我们到目前为止能拍到的最好的姿势。"
 
 # game/script.rpy:1253
 translate chinese d_halloween_cass_first_choice_ee69d848:
 
     # dh "Uh huh, that's pretty fucking sexy."
-    dh "嗯，真他妈的性感。"
-    dh "啊哈，真他妈性感。"
+    dh "啊哈，真他妈的性感。"
 
 # game/script.rpy:1254
 translate chinese d_halloween_cass_first_choice_6dc3b007:
 
     # al "It's not sexy enough though. There must be a way to make it better."
-    al "不过还不够性感。一定有办法让它变得更好。"
-    al "但这还不够性感。一定有办法让它变得更好。"
+    al "不过这还不够。一定有办法让它变得更好。"
 
 # game/script.rpy:1255
 translate chinese d_halloween_cass_first_choice_bfec853e:
 
     # dh "Let's try making a small change."
-    dh "让我们试着做个小小的改变。"
     dh "让我们试着做一个小小的改变。"
 
 # game/script.rpy:1262
@@ -3338,62 +3056,53 @@ translate chinese d_halloween_photo_options_629d2837:
 
     # dh "Why don't you two make out, that'll be super hot."
     dh "你们两个为什么不亲热一下，那会很火辣的。"
-    dh "你们俩何不亲热一下，那会很热的。"
 
 # game/script.rpy:1263
 translate chinese d_halloween_photo_options_888fa2d9:
 
     # cr "You would suggest that, wouldn't you?"
-    cr "你会这么建议的，不是吗？"
-    cr "你会这么说的，不是吗？"
+    cr "你当然会提这个建议，不是吗？"
 
 # game/script.rpy:1264
 translate chinese d_halloween_photo_options_a9111ba2:
 
     # cr "Alright, we'll give it a try."
-    cr "好的，我们试试看。"
-    cr "好的，我们试一试。"
+    cr "好吧，我们试试看。"
 
 # game/script.rpy:1265
 translate chinese d_halloween_photo_options_b4908188:
 
     # dh "Don't forget to use your tongues."
-    dh "别忘了用你的舌头。"
-    dh "别忘了用你的舌头。"
+    dh "别忘了用你们的舌头。"
 
 # game/script.rpy:1266
 translate chinese d_halloween_photo_options_76847839:
 
     # cr "Shut up, Debbie."
     cr "闭嘴，黛比。"
-    cr "闭嘴，黛比。"
 
 # game/script.rpy:1268
 translate chinese d_halloween_photo_options_2b807674:
 
     # dh "Nice!"
-    dh "好的!"
-    dh "美好的"
+    dh "太棒了!"
 
 # game/script.rpy:1272
 translate chinese d_halloween_photo_options_77b2e760:
 
     # cr "Let's see the picture."
     cr "让我们看看这张照片。"
-    cr "让我们看看这幅画。"
 
 # game/script.rpy:1273
 translate chinese d_halloween_photo_options_c3f9f00f:
 
     # dh "That's well hot!"
-    dh "太烫了！"
-    dh "那很热！"
+    dh "太色了！"
 
 # game/script.rpy:1274
 translate chinese d_halloween_photo_options_a328eaa4:
 
     # cr "Yeah, but it's no good."
-    cr "是啊，但情况不妙。"
     cr "是的，但这不好。"
 
 # game/script.rpy:1275
@@ -3401,525 +3110,450 @@ translate chinese d_halloween_photo_options_434e6901:
 
     # dh "Why?"
     dh "为什么？"
-    dh "为什么？"
 
 # game/script.rpy:1276
 translate chinese d_halloween_photo_options_6daf2c01:
 
     # cr "You can't see our faces clearly."
-    cr "你看不清我们的脸。"
-    cr "你看不清我们的脸。"
+    cr "你在照片上看不清我们的脸。"
 
 # game/script.rpy:1277
 translate chinese d_halloween_photo_options_1506f19b:
 
     # cr "What's the point of a photo if no one can tell I'm in it?"
-    cr "如果没人能看出来我在里面，那照片还有什么用呢？"
-    cr "如果没有人知道我在里面，那照片有什么意义？"
+    cr "如果没有人知道拍的是我，那照片有什么意义？"
 
 # game/script.rpy:1278
 translate chinese d_halloween_photo_options_5d3767b3:
 
     # dh "Right, sorry. Let's try again."
-    dh "对，对不起。让我们再试一次。"
     dh "对，对不起。我们再试一次。"
 
 # game/script.rpy:1280
 translate chinese d_halloween_photo_options_b72654f3:
 
     # cr "What should we try, Debbie?"
-    cr "我们应该试试什么，黛比？"
     cr "我们该怎么办，黛比？"
 
 # game/script.rpy:1285
 translate chinese d_halloween_photo_options_e446372d:
 
     # dh "You two have got fucking amazing tits!"
-    dh "你们两个有他妈的令人惊叹的乳房！"
-    dh "你们两个有他妈的漂亮乳头！"
+    dh "你们两个有他妈的令人惊叹的漂亮乳头！"
 
 # game/script.rpy:1286
 translate chinese d_halloween_photo_options_4eadf68b:
 
     # cr "Yeah, obviously."
-    cr "是啊，很明显。"
-    cr "是的，很明显。"
+    cr "是的，显然。"
 
 # game/script.rpy:1287
 translate chinese d_halloween_photo_options_c98ad97f:
 
     # dh "You should press up against each other so your boobs squish together."
-    dh "你们应该靠在一起，这样你们的胸部就会挤在一起。"
-    dh "你们应该互相挤压，这样你们的胸部就会挤在一起。"
+    dh "你们应该互相贴在一起，这样你们的胸部就会挤在一起。"
 
 # game/script.rpy:1288
 translate chinese d_halloween_photo_options_5f9e307e:
 
     # dh "That would look well sexy, I reckon."
     dh "我想那看起来会很性感。"
-    dh "我想那看起来很性感。"
 
 # game/script.rpy:1289
 translate chinese d_halloween_photo_options_c3580658:
 
     # cr "Yeah, that could work. OK, we'll try."
-    cr "是啊，那可能行得通。好的，我们试试看。"
-    cr "是的，那可能有用。好的，我们试试看。"
+    cr "是啊，这应该有用。好的，我们试试看。"
 
 # game/script.rpy:1291
 translate chinese d_halloween_photo_options_f3e8401b:
 
     # dh "Phwoah!"
     dh "哎呀！"
-    dh "呸！"
 
 # game/script.rpy:1295
 translate chinese d_halloween_photo_options_2cb00f5f:
 
     # cr "How does that photo look?"
-    cr "那张照片看起来怎么样？"
-    cr "那张照片看起来怎么样？"
+    cr "这张照片看起来怎么样？"
 
 # game/script.rpy:1296
 translate chinese d_halloween_photo_options_069b7028:
 
     # al "That's the sexiest so far but it could be better."
-    al "这是到目前为止最性感的，但还可以更好。"
-    al "这是迄今为止最性感的，但可能更好。"
+    al "这张是到目前为止最色的，但还可以更好。"
 
 # game/script.rpy:1297
 translate chinese d_halloween_photo_options_01a93eb3:
 
     # cr "Yeah, it's nearly there."
-    cr "是的，就快到了。"
-    cr "是的，快到了。"
+    cr "是的，就快拍出来了。"
 
 # game/script.rpy:1299
 translate chinese d_halloween_photo_options_6cf85e52:
 
     # cr "What else can we try?"
     cr "我们还能尝试什么呢？"
-    cr "我们还能尝试什么？"
 
 # game/script.rpy:1304
 translate chinese d_halloween_photo_options_16fcb029:
 
     # dh "If you angle yourselves so you're facing each other then you can show off your bums."
-    dh "如果你把自己的角度调整成面对面，那么你就可以炫耀你的屁股了。"
-    dh "如果你们以这样的角度面对对方，那么你们就可以炫耀你们的臀部了。"
+    dh "如果你把站立的角度调整成面对面，那么你们就可以炫耀你们的屁股了。"
 
 # game/script.rpy:1306
 translate chinese d_halloween_photo_options_6d465580:
 
     # dh "You two look hot from the front and back. It'd be a shame not to have a bit of both."
     dh "你们两个从前面到后面看起来都很火辣。如果两者都不能兼得，那就太可惜了。"
-    dh "你们两个前后都很性感。如果两者都没有，那就太可惜了。"
 
 # game/script.rpy:1307
 translate chinese d_halloween_photo_options_4561fb3f:
 
     # cr "You make a good point Debbie. I do have a great arse."
     cr "你说得对，黛比。我确实有一个很棒的屁股。"
-    cr "你说得对，黛比。我的屁股很好。"
 
 # game/script.rpy:1308
 translate chinese d_halloween_photo_options_0b33cce0:
 
     # cr "Alright Alice let's try it."
     cr "好的，爱丽丝，我们试试吧。"
-    cr "好的，爱丽丝，让我们试试。"
 
 # game/script.rpy:1310
 translate chinese d_halloween_photo_options_a8563058:
 
     # dh "Fuck yes!"
-    dh "他妈的是的！"
-    dh "他妈的是！"
+    dh "他妈的赞！"
 
 # game/script.rpy:1315
 translate chinese d_halloween_photo_options_2cb00f5f_1:
 
     # cr "How does that photo look?"
-    cr "那张照片看起来怎么样？"
-    cr "那张照片看起来怎么样？"
+    cr "这张照片看起来怎么样？"
 
 # game/script.rpy:1316
 translate chinese d_halloween_photo_options_069b7028_1:
 
     # al "That's the sexiest so far but it could be better."
-    al "这是到目前为止最性感的，但还可以更好。"
-    al "这是迄今为止最性感的，但可能更好。"
+    al "这是到目前为止最色的，但还可以更好。"
 
 # game/script.rpy:1317
 translate chinese d_halloween_photo_options_aae56b8b:
 
     # cr "Yeah, it's very nearly there."
-    cr "是的，就快到了。"
-    cr "是的，就在那里。"
+    cr "是的，就快拍出来了。"
 
 # game/script.rpy:1319
 translate chinese d_halloween_photo_options_6cf85e52_1:
 
     # cr "What else can we try?"
     cr "我们还能尝试什么呢？"
-    cr "我们还能尝试什么？"
 
 # game/script.rpy:1324
 translate chinese d_halloween_photo_options_f776d5be:
 
     # dh "I know, let's try both. Squish those big fat tittes together and show some booty."
-    dh "我知道，我们两个都试试吧。把那些又大又胖的乳房挤在一起，露点美臀。"
-    dh "我知道，让我们两个都试试。把那些肥硕的山雀挤在一起，拿出一些战利品。"
+    dh "我知道，我们两个都试试吧。把那些又大又圆的奶子挤在一起，再露点美臀。"
 
 # game/script.rpy:1325
 translate chinese d_halloween_photo_options_9c457702:
 
     # cr "Alright, Debbie. Now you're talking. Let's try it, Alice."
-    cr "好的，黛比。现在你说到点子上了。我们试试吧，爱丽丝。"
-    cr "好的，黛比。现在你说话了。让我们试试看，爱丽丝。"
+    cr "好的，黛比。你说到点子上了。我们试试吧，爱丽丝。"
 
 # game/script.rpy:1327
 translate chinese d_halloween_photo_options_afe9b6cf:
 
     # dh "Sploosh!"
-    dh "斯普洛什！"
     dh "嘘！"
 
 # game/script.rpy:1328
 translate chinese d_halloween_photo_options_074979aa:
 
     # cr "Gross Debbie."
-    cr "讨厌的黛比。"
     cr "恶心的黛比。"
 
 # game/script.rpy:1332
 translate chinese d_halloween_photo_options_bc398ace:
 
     # cr "Alright, how did that picture look?"
-    cr "好的，那张照片看起来怎么样？"
     cr "好吧，那幅画看起来怎么样？"
 
 # game/script.rpy:1333
 translate chinese d_halloween_photo_options_83bb9d5d:
 
     # al "Oh yeah, that is really hot."
-    al "哦，是啊，那真的很辣。"
-    al "哦，是的，真的很热。"
+    al "哦，太棒了，真的很辣。"
 
 # game/script.rpy:1335
 translate chinese d_halloween_photo_options_fb54fe56:
 
     # cr "Yeah, definitely. Could it be hotter though? What do you think, Debbie?"
-    cr "是的，当然。但是天气会更热吗？黛比，你觉得怎么样？"
-    cr "是啊，当然。不过，还能再热一点吗？你觉得呢，黛比？"
+    cr "是啊，当然。不过，还能再辣一点吗？你觉得呢，黛比？"
 
 # game/script.rpy:1339
 translate chinese d_halloween_photo_options_801136ca:
 
     # cr "You think? Couldn't it be a bit sexier?"
-    cr "你是这么想的吗？就不能性感一点吗？"
-    cr "你觉得呢？不能再性感一点吗？"
+    cr "你觉得呢？就不能再性感一点吗？"
 
 # game/script.rpy:1340
 translate chinese d_halloween_photo_options_58ab30af:
 
     # dh "No way! That's hot as fuck."
-    dh "不可能！真他妈的热。"
-    dh "不行!他妈的太辣了。"
+    dh "不可能!已经辣得想要操你们了。"
 
 # game/script.rpy:1342
 translate chinese d_halloween_photo_options_0f55a53b:
 
     # cr "Really?"
     cr "真的？"
-    cr "真正地"
 
 # game/script.rpy:1343
 translate chinese d_halloween_photo_options_06e5c87e:
 
     # dh "I'd rub one out looking at that picture, for sure."
-    dh "看着那张照片，我肯定会把它擦掉的。"
-    dh "看那张照片，我肯定会擦一擦。"
+    dh "看着这张照片，我肯定能撸出来一发。"
 
 # game/script.rpy:1344
 translate chinese d_halloween_photo_options_ba876a0b:
 
     # cr "That's gross, but I guess it is the reaction we were going for."
-    cr "太恶心了，但我想这就是我们想要的反应。"
-    cr "这很恶心，但我想这是我们想要的反应。"
+    cr "听起来很恶心，但我想这就是我们想要的反应。"
 
 # game/script.rpy:1345
 translate chinese d_halloween_photo_options_2805fb94:
 
     # cr "Alright Debbie, you've convinced me."
     cr "好吧，黛比，你说服了我。"
-    cr "好了，黛比，你说服了我。"
 
 # game/script.rpy:1346
 translate chinese d_halloween_photo_options_a6f54124:
 
     # ada "Finally! Thank God."
-    ada "终于来了！感谢上帝。"
-    ada "最后感谢上帝。"
+    ada "终于完事了！感谢上帝。"
 
 # game/script.rpy:1348
 translate chinese d_halloween_photo_options_eb95273c:
 
     # cr "Come on girls, let's head to the dorms."
-    cr "来吧，姑娘们，我们去宿舍吧。"
-    cr "来吧，姑娘们，我们去宿舍吧。"
+    cr "好了，姑娘们，我们去宿舍吧。"
 
 # game/script.rpy:1349
 translate chinese d_halloween_photo_options_3b5378c0:
 
     # cr "We can all go back to Ada's room so she can touch these up in Photoshop."
-    cr "我们都可以回艾达的房间，这样她就可以在Photoshop里润色这些了。"
-    cr "我们都可以回到Ada的房间，这样她可以在Photoshop中修改这些。"
+    cr "我们都可以回艾达的房间，这样她就可以在Photoshop里修这些图了。"
 
 # game/script.rpy:1350
 translate chinese d_halloween_photo_options_cd1057c4:
 
     # ada "Oh what, seriously?!"
     ada "哦，什么，真的吗？！"
-    ada "哦，什么，说真的？！"
 
 # game/script.rpy:1351
 translate chinese d_halloween_photo_options_db5fb18a:
 
     # dh "Great, that's three girls down. Time to move on."
-    dh "太好了，已经有三个女孩倒下了。是时候继续前进了。"
-    dh "太好了，三个女孩下来了。是时候继续前进了。"
+    dh "太好了，有三个女孩完事了。是时候继续前进了。"
 
 # game/script.rpy:1359
 translate chinese d_halloween_photo_options_8a8cfae0:
 
     # dh "I think I know what the problem is, girls."
-    dh "我想我知道问题出在哪里了，姑娘们。"
-    dh "我想我知道问题是什么，姑娘们。"
+    dh "我想我知道问题出在哪里，姑娘们。"
 
 # game/script.rpy:1360
 translate chinese d_halloween_photo_options_2fe76681:
 
     # cr "Yeah, what?"
-    cr "是啊，什么？"
     cr "是啊，怎么了？"
 
 # game/script.rpy:1361
 translate chinese d_halloween_photo_options_1dd1995c:
 
     # dh "You need to get your tits out, obviously!"
-    dh "显然，你需要把你的乳房露出来！"
-    dh "显然，你需要把你的乳头弄出来！"
+    dh "显然，你需要把你的乳头露出来！"
 
 # game/script.rpy:1362
 translate chinese d_halloween_photo_options_7e5f7251:
 
     # cr "We're not making porn, Debbie. Facegram doesn't let you show nipples."
-    cr "我们不是在拍色情片，黛比。脸谱网不让你展示乳头。"
-    cr "我们不是在拍色情片，黛比。脸图不允许显示乳头。"
+    cr "我们不是在拍色情片，黛比。脸书不允许展示乳头。"
 
 # game/script.rpy:1363
 translate chinese d_halloween_photo_options_2a08d547:
 
     # dh "Yeah, yeah I know but you can still be naked and not show anything."
-    dh "是啊，是啊，我知道，但是你还是可以赤身裸体，什么都不露面。"
-    dh "是的，是的，我知道，但你仍然可以赤身裸体，不展示任何东西。"
+    dh "是啊，是的，我知道，但是你还是可以赤身裸体，只要不露点就行了。"
 
 # game/script.rpy:1364
 translate chinese d_halloween_photo_options_4b79536a:
 
     # dh "What's sexier than hidden nudity?"
-    dh "还有什么比隐藏的裸体更性感？"
-    dh "还有什么比隐藏的裸体更性感呢？"
+    dh "还有什么比藏起来的裸体更性感呢？"
 
 # game/script.rpy:1365
 translate chinese d_halloween_photo_options_7b602aae:
 
     # dh "It's what all the A-list celebs do when they pose for magazines."
-    dh "这是所有一线明星为杂志摆姿势时所做的。"
     dh "这是所有一线明星为杂志摆姿势时都会做的事情。"
 
 # game/script.rpy:1366
 translate chinese d_halloween_photo_options_9f3a0dfb:
 
     # cr "Alright, you've got a good point. Let's try it again and see how it looks."
-    cr "好的，你说得很有道理。让我们再试一次，看看它看起来怎么样。"
-    cr "好吧，你说得对。让我们再试一次，看看效果如何。"
+    cr "好的，你说得很有道理。让我们再试一次，看看效果如何。"
 
 # game/script.rpy:1368
 translate chinese d_halloween_photo_options_2c5e28c3:
 
     # cr "Go on Alice, get those big melons out."
-    cr "去吧，爱丽丝，把那些大西瓜拿出来。"
-    cr "快点，爱丽丝，把那些大西瓜拿出来。"
+    cr "来吧，爱丽丝，把你那对大西瓜掏出来。"
 
 # game/script.rpy:1369
 translate chinese d_halloween_photo_options_ddccdfc9:
 
     # al "Sure OK."
-    al "当然可以。"
-    al "当然可以。"
+    al "没问题。"
 
 # game/script.rpy:1371
 translate chinese d_halloween_photo_options_34a30486:
 
     # cr "Now, I don't get naked for every photographer, Ada, so I hope you appreciate the privilege."
-    cr "艾达，我不会为每个摄影师都裸体，所以我希望你能感激这一特权。"
-    cr "现在，我并不是每个摄影师都裸体，艾达，所以我希望你能欣赏这一特权。"
+    cr "艾达，我不会在每个摄影师都裸体，所以我希望你能感激这一特权。"
 
 # game/script.rpy:1372
 translate chinese d_halloween_photo_options_8a1e248f:
 
     # ada "I um... I'm actually not really that comfortable..."
-    ada "我嗯..。我其实不是很舒服."
     ada "我嗯。。。我其实不是很舒服。。。"
 
 # game/script.rpy:1374
 translate chinese d_halloween_photo_options_362d0de0:
 
     # cr "Shut the fuck up, Ada and start taking pictures!"
-    cr "闭嘴，艾达，开始拍照！"
     cr "他妈的闭嘴，艾达，开始拍照！"
 
 # game/script.rpy:1375
 translate chinese d_halloween_photo_options_6ec88348:
 
     # ada "OK, OK. Jeez."
-    ada "好,好。天哪。"
     ada "好的，好的。天啊。"
 
 # game/script.rpy:1378
 translate chinese d_halloween_photo_options_a6c50fcb:
 
     # dh "Holy mama!"
-    dh "天哪！"
     dh "我的天啊！"
 
 # game/script.rpy:1381
 translate chinese d_halloween_photo_options_25928014:
 
     # dh "That's the one! It's perfect."
-    dh "就是那个！太完美了。"
-    dh "就是那个！太完美了。"
+    dh "就是这个！太完美了。"
 
 # game/script.rpy:1382
 translate chinese d_halloween_photo_options_baade167:
 
     # cr "Yeah?"
     cr "嗯?"
-    cr "是 啊"
 
 # game/script.rpy:1383
 translate chinese d_halloween_photo_options_68c77041:
 
     # dh "Yeah, but lets try all the other poses again to make sure."
-    dh "是的，但是让我们再试一次其他的姿势来确认一下。"
-    dh "是的，但是让我们再试试其他的姿势来确定。"
+    dh "没错，但让我们再试一次其他的姿势来确认一下。"
 
 # game/script.rpy:1384
 translate chinese d_halloween_photo_options_f6309d7a:
 
     # cr "Yeah, OK."
-    cr "好的，好的。"
-    cr "是的，好的。"
+    cr "好的，没问题。"
 
 # game/script.rpy:1398
 translate chinese d_halloween_photo_options_66ef0806:
 
     # cr "Oh yeah, these are sexy as fuck! Nice one, Debbie."
-    cr "哦，是的，这些他妈的都很性感！干得好，黛比。"
-    cr "哦，是的，这些都很性感！不错，黛比。"
+    cr "哦，台办各类，这些他妈的都很性感！干得好，黛比。"
 
 # game/script.rpy:1399
 translate chinese d_halloween_photo_options_c18cd85d:
 
     # al "Yeah, thanks Debbie you really came through there."
-    al "是啊，谢谢黛比，你真的挺过来的。"
-    al "是的，谢谢黛比，你真的挺过来了。"
+    al "是啊，谢谢比黛比，你真的帮我们做到了。"
 
 # game/script.rpy:1400
 translate chinese d_halloween_photo_options_5acb002c:
 
     # dh "No problem, just let me have some of the pictures and we'll call it even."
-    dh "没问题，只要给我一些照片，我们就扯平了。"
-    dh "没问题，只要给我一些照片，我们就扯平了。"
+    dh "没事，只要把刚才的照片给我几张，我们就扯平了。"
 
 # game/script.rpy:1401
 translate chinese d_halloween_photo_options_3037e365:
 
     # cr "Sure, whatever."
-    cr "当然，随便你。"
-    cr "当然，不管怎样。"
+    cr "没问题，随便你。"
 
 # game/script.rpy:1403
 translate chinese d_halloween_photo_options_33ed2a51:
 
     # cr "Alright girls, let's head home."
     cr "好了，姑娘们，我们回家吧。"
-    cr "好了，姑娘们，我们回家吧。"
 
 # game/script.rpy:1404
 translate chinese d_halloween_photo_options_0b09c916:
 
     # ada "Finally! I'm so tired."
-    ada "终于来了！我太累了。"
-    ada "最后我太累了。"
+    ada "终于完事了！我太累了。"
 
 # game/script.rpy:1405
 translate chinese d_halloween_photo_options_3b5378c0_1:
 
     # cr "We can all go back to Ada's room so she can touch these up in Photoshop."
-    cr "我们都可以回艾达的房间，这样她就可以在Photoshop里润色这些了。"
-    cr "我们都可以回到Ada的房间，这样她可以在Photoshop中修改这些。"
+    cr "我们都可以回艾达的房间，这样她就可以在Photoshop里润色这些图了。"
 
 # game/script.rpy:1406
 translate chinese d_halloween_photo_options_b9e0ae50:
 
     # ada "Oh what, seriously?"
     ada "哦，什么，真的吗？"
-    ada "哦，什么，说真的？"
 
 # game/script.rpy:1407
 translate chinese d_halloween_photo_options_db5fb18a_1:
 
     # dh "Great, that's three girls down. Time to move on."
-    dh "太好了，已经有三个女孩倒下了。是时候继续前进了。"
-    dh "太好了，三个女孩下来了。是时候继续前进了。"
+    dh "太好了，这三个女孩完事了。是时候继续前进了。"
 
 # game/script.rpy:1414
 translate chinese d_halloween_photo_options_2c13286a:
 
     # dh "I don't have time for this bullshit. Just hurry up and head home."
-    dh "我没时间跟你废话。快点回家吧。"
     dh "我没时间听这些废话。赶快回家吧。"
 
 # game/script.rpy:1415
 translate chinese d_halloween_photo_options_e2429934:
 
     # cr "We'll leave when Ada sorts her shit out."
-    cr "等艾达把她的狗屎解决了我们就走。"
-    cr "等艾达整理好她的大便我们就走。"
+    cr "等艾达把她的狗屎解决完了我们就走。"
 
 # game/script.rpy:1416
 translate chinese d_halloween_photo_options_e6563382:
 
     # ada "I'm doing my best!"
-    ada "我在尽我最大的努力！"
-    ada "我已经尽力了！"
+    ada "我已经我最大的努力了！"
 
 # game/script.rpy:1426
 translate chinese d_halloween_lake_00f75de9:
 
     # mt "There's a group of girls sitting around a fire down by the lake."
-    mt "湖边有一群女孩围着炉火坐着。"
-    mt "湖边有一群女孩围坐在炉火旁。"
+    mt "湖边有一群女孩围坐在篝火旁。"
 
 # game/script.rpy:1427
 translate chinese d_halloween_lake_17a3f126:
 
     # mt "Should I go down there?"
-    mt "我要下去吗？"
-    mt "我应该下去吗？"
+    mt "我应该过去看看吗？"
 
 # game/script.rpy:1434
 translate chinese d_halloween_lake_a811a883:
