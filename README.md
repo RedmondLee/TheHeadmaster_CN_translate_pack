@@ -13,7 +13,7 @@ P站游戏 The Headmaster(Altos and Herdone) 的翻译工具包.
 [https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/blob/main/misc/readme.md#提交bug与修正错误的方法](https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/blob/main/misc/readme.md#提交bug与修正错误的方法)
 
 ### 如果您完全没有使用过Github，应该如何下载最新的汉化补丁
-[https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/tree/main/misc#玩家如何下载最新汉化补丁](https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/tree/main/misc#玩家如何下载最新汉化补丁)
+[https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/tree/main/misc#玩家如何下载最新汉化补丁](https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/tree/main/misc#玩家如何下载最新汉化补丁) 
 
 ### 当前更新版本号
 0.11.1
