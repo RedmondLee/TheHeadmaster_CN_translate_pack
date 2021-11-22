@@ -4,27 +4,27 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "禁用自动发声"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "启用剪贴板发声功能"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "启用自动发声"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "栏"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "选择"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "视点"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"

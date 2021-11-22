@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/options.rpy:15
     old "Debbie's Halloween"
-    new ""
+    new "黛比的万圣节"
 

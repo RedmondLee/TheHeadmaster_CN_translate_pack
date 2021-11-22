@@ -4,75 +4,75 @@ translate chinese strings:
 
     # game/screens.rpy:256
     old "Back"
-    new ""
+    new "返回"
 
     # game/screens.rpy:257
     old "History"
-    new ""
+    new "历史"
 
     # game/screens.rpy:258
     old "Skip"
-    new ""
+    new "跳过"
 
     # game/screens.rpy:259
     old "Auto"
-    new ""
+    new "自动"
 
     # game/screens.rpy:260
     old "Save"
-    new ""
+    new "保存"
 
     # game/screens.rpy:261
     old "Q.Save"
-    new ""
+    new "快速保存"
 
     # game/screens.rpy:262
     old "Q.Load"
-    new ""
+    new "快速读取"
 
     # game/screens.rpy:263
     old "Prefs"
-    new ""
+    new "预设"
 
     # game/screens.rpy:304
     old "Start"
-    new ""
+    new "开始"
 
     # game/screens.rpy:312
     old "Load"
-    new ""
+    new "加载"
 
     # game/screens.rpy:314
     old "Preferences"
-    new ""
+    new "选项"
 
     # game/screens.rpy:318
     old "End Replay"
-    new ""
+    new "停止重播"
 
     # game/screens.rpy:322
     old "Main Menu"
-    new ""
+    new "主菜单"
 
     # game/screens.rpy:324
     old "About"
-    new ""
+    new "关于"
 
     # game/screens.rpy:326
     old "Credits"
-    new ""
+    new "计分"
 
     # game/screens.rpy:331
     old "Help"
-    new ""
+    new "帮助"
 
     # game/screens.rpy:484
     old "Return"
-    new ""
+    new "返回"
 
     # game/screens.rpy:570
     old "Version [config.version!t]\n"
-    new ""
+    new "版本号 [config.version!t]\n"
 
     # game/screens.rpy:576
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
@@ -80,7 +80,7 @@ translate chinese strings:
 
     # game/screens.rpy:591
     old "{b}Game Backers"
-    new ""
+    new "游戏赞助者"
 
     # game/screens.rpy:592
     old "A-Tav"
@@ -188,7 +188,7 @@ translate chinese strings:
 
     # game/screens.rpy:619
     old "{b}Proofreading"
-    new ""
+    new "{b}校对"
 
     # game/screens.rpy:620
     old "TheMaskedEditor"
@@ -200,11 +200,11 @@ translate chinese strings:
 
     # game/screens.rpy:658
     old "Automatic saves"
-    new ""
+    new "自动保存"
 
     # game/screens.rpy:658
     old "Quick saves"
-    new ""
+    new "快速保存"
 
     # game/screens.rpy:700
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -212,7 +212,7 @@ translate chinese strings:
 
     # game/screens.rpy:700
     old "empty slot"
-    new ""
+    new "空槽"
 
     # game/screens.rpy:717
     old "<"
@@ -232,119 +232,119 @@ translate chinese strings:
 
     # game/screens.rpy:786
     old "Display"
-    new ""
+    new "显示"
 
     # game/screens.rpy:787
     old "Window"
-    new ""
+    new "窗口"
 
     # game/screens.rpy:788
     old "Fullscreen"
-    new ""
+    new "全屏"
 
     # game/screens.rpy:792
     old "Rollback Side"
-    new ""
+    new "回滚"
 
     # game/screens.rpy:793
     old "Disable"
-    new ""
+    new "禁用"
 
     # game/screens.rpy:794
     old "Left"
-    new ""
+    new "左"
 
     # game/screens.rpy:795
     old "Right"
-    new ""
+    new "右"
 
     # game/screens.rpy:800
     old "Unseen Text"
-    new ""
+    new "未读文本"
 
     # game/screens.rpy:801
     old "After Choices"
-    new ""
+    new "选项之前"
 
     # game/screens.rpy:802
     old "Transitions"
-    new ""
+    new "过渡"
 
     # game/screens.rpy:821
     old "Text Speed"
-    new ""
+    new "文本速度"
 
     # game/screens.rpy:825
     old "Auto-Forward Time"
-    new ""
+    new "自动前进间隔"
 
     # game/screens.rpy:832
     old "Music Volume"
-    new ""
+    new "音乐音量"
 
     # game/screens.rpy:839
     old "Sound Volume"
-    new ""
+    new "声音音量"
 
     # game/screens.rpy:845
     old "Test"
-    new ""
+    new "测试"
 
     # game/screens.rpy:849
     old "Voice Volume"
-    new ""
+    new "语音音量"
 
     # game/screens.rpy:860
     old "Mute All"
-    new ""
+    new "全部静音"
 
     # game/screens.rpy:977
     old "The dialogue history is empty."
-    new ""
+    new "对话历史为空"
 
     # game/screens.rpy:1047
     old "Keyboard"
-    new ""
+    new "键盘"
 
     # game/screens.rpy:1048
     old "Mouse"
-    new ""
+    new "鼠标"
 
     # game/screens.rpy:1051
     old "Gamepad"
-    new ""
+    new "游戏手柄"
 
     # game/screens.rpy:1064
     old "Enter"
-    new ""
+    new "回车"
 
     # game/screens.rpy:1065
     old "Advances dialogue and activates the interface."
-    new ""
+    new "推进对话，激活界面"
 
     # game/screens.rpy:1068
     old "Space"
-    new ""
+    new "空格"
 
     # game/screens.rpy:1069
     old "Advances dialogue without selecting choices."
-    new ""
+    new "推进对话，而不做选择"
 
     # game/screens.rpy:1072
     old "Arrow Keys"
-    new ""
+    new "方向键"
 
     # game/screens.rpy:1073
     old "Navigate the interface."
-    new ""
+    new "导航界面"
 
     # game/screens.rpy:1076
     old "Escape"
-    new ""
+    new "ESC"
 
     # game/screens.rpy:1077
     old "Accesses the game menu."
-    new ""
+    new "进入游戏菜单"
 
     # game/screens.rpy:1080
     old "Ctrl"
@@ -352,7 +352,7 @@ translate chinese strings:
 
     # game/screens.rpy:1081
     old "Skips dialogue while held down."
-    new ""
+    new "按住时跳过对话"
 
     # game/screens.rpy:1084
     old "Tab"
@@ -360,7 +360,7 @@ translate chinese strings:
 
     # game/screens.rpy:1085
     old "Toggles dialogue skipping."
-    new ""
+    new "切换对话跳过的方式"
 
     # game/screens.rpy:1088
     old "Page Up"
@@ -368,7 +368,7 @@ translate chinese strings:
 
     # game/screens.rpy:1089
     old "Rolls back to earlier dialogue."
-    new ""
+    new "回到先前的对话"
 
     # game/screens.rpy:1092
     old "Page Down"
@@ -376,19 +376,19 @@ translate chinese strings:
 
     # game/screens.rpy:1093
     old "Rolls forward to later dialogue."
-    new ""
+    new "向后查看对话"
 
     # game/screens.rpy:1097
     old "Hides the user interface."
-    new ""
+    new "隐藏用户界面"
 
     # game/screens.rpy:1101
     old "Takes a screenshot."
-    new ""
+    new "截屏"
 
     # game/screens.rpy:1105
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
+    new "切换辅助性{a=https://www.renpy.org/l/voicing}语音{/a}"
 
     # game/screens.rpy:1111
     old "Left Click"
@@ -404,7 +404,7 @@ translate chinese strings:
 
     # game/screens.rpy:1123
     old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
+    new "鼠标滚轮向上\n单击回滚一侧"
 
     # game/screens.rpy:1127
     old "Mouse Wheel Down"
@@ -436,17 +436,17 @@ translate chinese strings:
 
     # game/screens.rpy:1158
     old "Calibrate"
-    new ""
+    new "校准"
 
     # game/screens.rpy:1291
     old "Skipping"
-    new ""
+    new "跳过"
 
     # game/screens.rpy:1512
     old "Menu"
-    new ""
+    new "菜单"
 
     # game/screens.rpy:1513
     old "Hide"
-    new ""
+    new "隐藏"
 
