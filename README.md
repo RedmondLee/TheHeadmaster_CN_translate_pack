@@ -7,7 +7,7 @@ P站游戏 The Headmaster(Altos and Herdone) 的翻译工具包.
 
 ## 汉化交流群
 
-971809199
+971809199 
 
 ### 如果出现错误应该如何提交，或者自定debug
 [https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/blob/main/misc/readme.md#提交bug与修正错误的方法](https://github.com/RedmondLee/TheHeadmaster_CN_translate_pack/blob/main/misc/readme.md#提交bug与修正错误的方法)
