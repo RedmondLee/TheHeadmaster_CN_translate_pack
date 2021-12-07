@@ -7702,7 +7702,7 @@ translate chinese window_opened_88c37302:
 translate chinese window_opened_1e7819e6:
 
     # mt "{i}Wait what am I thinking?! I should be hoping the girls behave themselves. Not hoping they get in trouble.{/i}"
-    mt "{I}等等,我在想什么呢?!我应该希望女孩们规规矩矩的.而不是希望他们惹上麻烦.{/i}"
+    mt "{i}等等,我在想什么呢?!我应该希望女孩们规规矩矩的.而不是希望他们惹上麻烦.{/i}"
 
 # game/intro.rpy:4002
 translate chinese window_opened_d9d18654:
@@ -7816,7 +7816,7 @@ translate chinese pre_dream_1196a661:
 translate chinese pre_dream_400a419b:
 
     # mt "{i}The science teacher Miss Chang seems like an interesting woman.{/i}"
-    mt "科学老师张小姐看起来是个有趣的女人.{/i}"
+    mt "{i}科学老师张小姐看起来是个有趣的女人.{/i}"
 
 # game/intro.rpy:4072
 translate chinese pre_dream_19ccc3ff:
